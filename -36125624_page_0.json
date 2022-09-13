@@ -1,0 +1,42 @@
+{
+  "id_nortag": "-36125624",
+  "index_page": 0,
+  "name_nortag": "Rivalz Cardemonde",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "1732206040",
+  "hc_lt_data_img": "-8985458",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "",
+  "lt_alb": [
+    {
+      "id_alb": "-429743888",
+      "name_alb": "Code Geass",
+      "total_img": 153
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-2133017521",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "CodeGeass_750400_crop2608_-1614291715",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7lVXf8l6A6eCvamcaAZSvBQOTFFPLi6aEQPD+PNSKt5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7lVXf8l6A6eCvamcaAZSvugfIEY7hB1eA8ZazeWOM/ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-429743888"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-2133017521",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "CodeGeass_750400_crop2608_-258984011",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemg/aKD2pwBrzTjNhdWMp9u0cvM8vJgmqsMsqzWXChG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemg/aKD2pwBrzTjNhdWMp9B+WvplnsV/RwYzLFrDIXhpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-429743888"
+      ]
+    }
+  ]
+}

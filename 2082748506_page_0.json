@@ -1,0 +1,37 @@
+{
+  "id_nortag": "2082748506",
+  "index_page": 0,
+  "name_nortag": "Rider FateZero",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "1631766508",
+  "hc_lt_data_img": "-708577222",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "",
+  "lt_alb": [
+    {
+      "id_alb": "-2077965603",
+      "name_alb": "Scenery Arts",
+      "total_img": 2036
+    },
+    {
+      "id_alb": "1048222036",
+      "name_alb": "FateZero",
+      "total_img": 16
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "575905593",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateZero_622412_crop2608_241682922",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQWinhKztIymsy1G6dxkGexnNn7h6RIbAJzQHWyFOQ/JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQWinhKztIymsy1G6dxkGewLWSTSXNFglWIrW0h4gZOpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2077965603",
+        "1048222036"
+      ]
+    }
+  ]
+}

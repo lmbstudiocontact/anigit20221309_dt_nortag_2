@@ -1,0 +1,116 @@
+{
+  "id_nortag": "-1083752351",
+  "index_page": 0,
+  "name_nortag": "ScathachSkai",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-683746010",
+  "hc_lt_data_img": "769292312",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-1922082958",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "224902894",
+      "name_alb": "FateGrand Order",
+      "total_img": 646
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "1251049526",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1021563819",
+      "id_img": "FateGrandOrder_963635_crop2608_-1751452347",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieeU2jiPHcld9WIV6us+WvMzQf5EFt5ySV3MqZ53176vZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieeU2jiPHcld9WIV6us+WvMvNUe7tcCWqfB8oF3fEbLTpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "224902894"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "-1364967268",
+        "-326078627",
+        "71899412",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1251049526",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1706684788",
+      "id_img": "FateGrandOrder_963637_crop2608_1263651271",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZdhViKim0o44vFbNhZAl3X7/tBaBxCt2l/ShPLPe4mJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZdhViKim0o44vFbNhZAl3Lz/GHBTER5zD67HpbjbVZZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "224902894"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "-369654561",
+        "-1436512555",
+        "-1364967268",
+        "-326078627",
+        "71899412",
+        "1439812287",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
+    },
+    {
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    }
+  ]
+}

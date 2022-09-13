@@ -1,0 +1,145 @@
+{
+  "id_nortag": "-1386496424",
+  "index_page": 0,
+  "name_nortag": "Sand Cat Kemono Friends",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-1556854082",
+  "hc_lt_data_img": "-1405761278",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-2039996328",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "-1739798606",
+      "name_alb": "Kemono Friends",
+      "total_img": 103
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-1952323799",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1368328249",
+      "id_img": "KemonoFriends_803178_crop2608_-25589922",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekiDb9pYO9rThCfLFRHvx54xL47HwItvYBeaIGmV3DwZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekiDb9pYO9rThCfLFRHvx51xAmIYd6Ya/iB9xCdtQO55Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1739798606"
+      ],
+      "lt_id_sptag": [
+        "-120608061",
+        "154003721",
+        "-2139213873",
+        "1211227273",
+        "-369535327",
+        "410439701",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1952323799",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "448044442",
+      "id_img": "KemonoFriends_866088_crop2608_-2002027055",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMB2mBi3vctvfSEpoDT/U+h3OMhPTW1CCQwH3khnFDpZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMB2mBi3vctvfSEpoDT/U+p55BdQm50DBgeh78zrgV8JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1739798606"
+      ],
+      "lt_id_sptag": [
+        "-120608061",
+        "936615491",
+        "-1811357781",
+        "154003721",
+        "-2139213873",
+        "1211227273",
+        "1600730941",
+        "410439701",
+        "1439812287",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "410439701",
+      "key_sptag": "isGirlEarsNekoAnime",
+      "name_sptag": "Girls Ears Neko",
+      "total": 7031
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id_nortag": "-756157813",
+  "index_page": 0,
+  "name_nortag": "Namazuo Toushirou",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "2107207840",
+  "hc_lt_data_img": "-771730663",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-1140067555",
+  "lt_alb": [
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    },
+    {
+      "id_alb": "-1515232308",
+      "name_alb": "Touken Ranbu",
+      "total_img": 228
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "765645735",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToukenRanbu_835109_crop2608_-2131973543",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCA5Tf8o4OlJ1pbwhPRPW/QTWygNW2nNY3gEH0pQijaZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCA5Tf8o4OlJ1pbwhPRPW/bcAIZNktc42GGQbwoUQSTpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-1515232308"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1226951479",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-694479899",
+      "id_img": "ToukenRanbu_956954_crop2608_-1906217737",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsMA9xLOLxqEXnhaynkNZ1BcBoTjukM5LYUtWSnuZg9JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsMA9xLOLxqEXnhaynkNZ1qcaFJVfEoAWtd1RmZ14J35Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1515232308"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "891390002",
+        "-326078627",
+        "1600730941",
+        "1129122964",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1226951479",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-694479899",
+      "id_img": "ToukenRanbu_956954_crop2608_-2059392886",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicT7I1M45uIqYCBV1L7DO7xvUQq5ncYhf+P9XIc7XeGDZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicT7I1M45uIqYCBV1L7DO7xW8uTlOQVFc5Y17VHkkYtApVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1515232308"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "891390002",
+        "-326078627",
+        "1600730941",
+        "1129122964",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    }
+  ]
+}

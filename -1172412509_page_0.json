@@ -1,0 +1,194 @@
+{
+  "id_nortag": "-1172412509",
+  "index_page": 0,
+  "name_nortag": "Rider Fatestay night",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-1538349317",
+  "hc_lt_data_img": "-125493012",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-1186954925",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "224902894",
+      "name_alb": "FateGrand Order",
+      "total_img": 646
+    },
+    {
+      "id_alb": "1477546269",
+      "name_alb": "FateStay Night",
+      "total_img": 128
+    },
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "1251049526",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1648734118",
+      "id_img": "FateGrandOrder_820355_crop2608_1315351826",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidj97UQXKA98Lb3ucowmdsz6GMq5z7CzCTeXr0SpMBzEJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidj97UQXKA98Lb3ucowmdszbJ8woauehpYjggH9c0XQUZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "224902894"
+      ],
+      "lt_id_sptag": [
+        "-14067806",
+        "-120608061",
+        "936615491",
+        "891390002",
+        "1371605601",
+        "154003721",
+        "-2139213873",
+        "-143120565",
+        "1211227273",
+        "-1415763167",
+        "-326078627",
+        "1129122964",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "2020722967",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1485038935",
+      "id_img": "FateStayNight_930941_crop2608_1435318321",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidoX6vq7jP5aZ4jx7eGqVLNnBnaJOH/hcwtemx8o2O/5pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidoX6vq7jP5aZ4jx7eGqVLNadyvJKFNOO95KMRQdqHp3ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1477546269",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-1811357781",
+        "154003721",
+        "-326078627",
+        "1129122964",
+        "71899412",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "2122977576",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateStayNight_930941_crop2608_2141794014",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8GYOdde00pT7jwHvbrX/4ukgOiO6wdSgfskdCZhmy8ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8GYOdde00pT7jwHvbrX/4MXqlD7nTcSu8tsX4bjq725Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1477546269",
+        "2024260576"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
+    {
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
+    },
+    {
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1371605601",
+      "key_sptag": "isGirlHoodieAnime",
+      "name_sptag": "Girls Hoodie",
+      "total": 2667
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-1415763167",
+      "key_sptag": "isGirlGlassesAnime",
+      "name_sptag": "Girls Glasses",
+      "total": 2385
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id_nortag": "-543663712",
+  "index_page": 0,
+  "name_nortag": "Queen Elizabeth Azur Lane",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "103013157",
+  "hc_lt_data_img": "-1048892076",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-1302288246",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "408425270",
+      "name_alb": "Azur Lane",
+      "total_img": 185
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "1854286778",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-2103692821",
+      "id_img": "AzurLane_837437_crop2608_1548016281",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidm+AI+BkW4KqF1sA8isthOHhZoa87mV2DyFSOvCTKelZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidm+AI+BkW4KqF1sA8isthO4ZrO1ZsX3kJWPEX5mtk89JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "408425270"
+      ],
+      "lt_id_sptag": [
+        "-564636969",
+        "-1811357781",
+        "154003721",
+        "-1415763167",
+        "-326078627",
+        "-1743477818",
+        "1600730941",
+        "635372596",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1854286778",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-449368030",
+      "id_img": "AzurLane_902400_crop2608_1573725814",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieiluWHSkWEbJali5YIN7ZUXz2RXI7muIGveJVNJoFBJJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieiluWHSkWEbJali5YIN7ZU6jv6y9r7WR1blnkf1eC/S5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "408425270"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "154003721",
+        "-326078627",
+        "1600730941",
+        "-369535327",
+        "1129122964",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1854286778",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-2099982969",
+      "id_img": "AzurLane_944305_crop2608_-1192985183",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/sHa2+BIKpXDcK8QrQBepO2qKqrWsyrNHrnPWawfrRpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/sHa2+BIKpXDcK8QrQBep5hjFTlybKZ8nY3f74i4v0ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "408425270"
+      ],
+      "lt_id_sptag": [
+        "1043155746",
+        "-564636969",
+        "-1811357781",
+        "154003721",
+        "-326078627",
+        "1600730941",
+        "1440489992",
+        "-369535327",
+        "1911583362",
+        "-298695861"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-564636969",
+      "key_sptag": "isGirlSharpCanineToothAnime",
+      "name_sptag": "Girls Sharp Canine Tooth",
+      "total": 3202
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-1415763167",
+      "key_sptag": "isGirlGlassesAnime",
+      "name_sptag": "Girls Glasses",
+      "total": 2385
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1743477818",
+      "key_sptag": "isGirlWaterRainAnime",
+      "name_sptag": "Girls Water Rain",
+      "total": 2954
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "635372596",
+      "key_sptag": "isGirlEyesGreyAnime",
+      "name_sptag": "Girls Eyes Grey",
+      "total": 2483
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "1043155746",
+      "key_sptag": "isGirlEyesSilvertAnime",
+      "name_sptag": "Girls Eyes Silver",
+      "total": 1109
+    },
+    {
+      "id_sptag": "1440489992",
+      "key_sptag": "isGirlTearsAnime",
+      "name_sptag": "Girls Tears",
+      "total": 1511
+    },
+    {
+      "id_sptag": "-298695861",
+      "key_sptag": "isGirlWeddingAnime",
+      "name_sptag": "Girls Wedding",
+      "total": 2328
+    }
+  ]
+}

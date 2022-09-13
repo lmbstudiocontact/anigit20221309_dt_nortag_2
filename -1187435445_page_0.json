@@ -1,0 +1,37 @@
+{
+  "id_nortag": "-1187435445",
+  "index_page": 0,
+  "name_nortag": "Sakamoto Ryoma FateGrand Order",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-1321489106",
+  "hc_lt_data_img": "159608073",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "",
+  "lt_alb": [
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
+    },
+    {
+      "id_alb": "224902894",
+      "name_alb": "FateGrand Order",
+      "total_img": 646
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "125975109",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateGrandOrder_934455_crop2608_352170461",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5I7Ak+LIXnFW585U2G5ckxQjbJHXi7HcgL6qu/M4OjpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5I7Ak+LIXnFW585U2G5ckT3jNLV1Demqw9/6rym6Lp5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2024260576",
+        "224902894"
+      ]
+    }
+  ]
+}

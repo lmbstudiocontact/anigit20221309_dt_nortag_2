@@ -1,0 +1,100 @@
+{
+  "id_nortag": "-1194003571",
+  "index_page": 0,
+  "name_nortag": "Semiramis FateApocrypha",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-298618755",
+  "hc_lt_data_img": "1148262477",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "757499119",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "-1310424525",
+      "name_alb": "FateApocrypha",
+      "total_img": 173
+    },
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-1993164614",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1659843624",
+      "id_img": "FateApocrypha_903260_crop2608_-1874617042",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifv7aVxyykxQBfs9OCCMc3RfJqMI9pSI5Q6ieOLEh/2wpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifv7aVxyykxQBfs9OCCMc3R5tsq8OK0JRf2O42OU9UJNJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1310424525"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "1211227273",
+        "-326078627",
+        "1600730941",
+        "1911583362",
+        "-143528947"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1176728265",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateApocrypha_915503_crop2608_-927260359",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTycEp2YN5TxN0k6ZAg+kMYPBDPm19Pm0ys+Ag0BLjZZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTycEp2YN5TxN0k6ZAg+kMk6oefeJ2qdVpleTSvq3F45Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2024260576",
+        "-1310424525"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    }
+  ]
+}

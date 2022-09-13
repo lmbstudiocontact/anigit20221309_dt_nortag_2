@@ -1,0 +1,76 @@
+{
+  "id_nortag": "45277705",
+  "index_page": 0,
+  "name_nortag": "Momo Kaizou",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-1277883835",
+  "hc_lt_data_img": "-1509382799",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "608003045",
+  "lt_alb": [
+    {
+      "id_alb": "-1872804661",
+      "name_alb": "ReLief Shinai Naru Anata E",
+      "total_img": 8
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "875605940",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "80498027",
+      "id_img": "ReLiefShinaiNaruAnataE_712153_crop2608_-1925954181",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxkgN2t/v2ty2a2YwGuadSQZQ/wJz8m/q3iJGhqqrouJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxkgN2t/v2ty2a2YwGuadSD6pKKFZv1rRpVlRoNCjTV5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1872804661",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "891390002",
+        "-1782893951",
+        "-326078627",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    }
+  ]
+}

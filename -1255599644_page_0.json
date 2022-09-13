@@ -1,0 +1,119 @@
+{
+  "id_nortag": "-1255599644",
+  "index_page": 0,
+  "name_nortag": "Rena Geminis",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "2003715609",
+  "hc_lt_data_img": "-1262813080",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-40327367",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "1727996021",
+      "name_alb": "Magus Tale",
+      "total_img": 26
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-1859548658",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "392511909",
+      "id_img": "MagusTale_215724_crop2608_700165533",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiKSoG1eOfAGUlggyxAANHF8IDmqUNkZ/yqSzeZUNiJpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiKSoG1eOfAGUlggyxAANHf61YxU/G1tp6KRG8xVqPj5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1727996021"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-326078627",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1859548658",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "543714885",
+      "id_img": "MagusTale_215731_crop2608_-623779719",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSEUlGqbhECOGIjiQ9/UWJSYOf31bpRVMyFvlvZA5xvJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSEUlGqbhECOGIjiQ9/UWJyr+daS/fxjLotXUtS67IXZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1727996021"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-1364967268",
+        "-326078627",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1859548658",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "78191064",
+      "id_img": "MagusTale_215731_crop2608_1169363148",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5/v5t86HOItlJWl+SkvVGCP5hvrv1D80p2l5rKMyiRJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5/v5t86HOItlJWl+SkvVGdsafUpBVhL173GR4z5eiGpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1727996021"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "154003721",
+        "-1364967268",
+        "-326078627",
+        "1439812287",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    }
+  ]
+}
