@@ -5,8 +5,8 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "51526126",
-  "hc_lt_data_img": "500060443",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-1665556350",
+  "hc_lt_nortag": "-1791584392",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,36 +18,92 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_949067_crop2608_-1719704445",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvnL3+HfbCXx6NBDDHEe+3ryjc9vVoCKNcsIEGaVSOPZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvnL3+HfbCXx6NBDDHEe+3gattqA3z3Nu75NeTWhXbbJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_949067_crop2608_-1883140432",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqXGqN+FGO+uwdgNZwbPUt+NzOPlf2dba8D6xeeQEL5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqXGqN+FGO+uwdgNZwbPUH0MIRcCxhcPsFZnQmR3+g5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1241738855",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_949067_crop2608_9438114",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1dt2u/yFI24716Jr+JLd/FiQ3y6Rm51vVyG9bzcOQgpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1dt2u/yFI24716Jr+JLd/VNVbrH1/YEwi+jwHQSfMkZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-1643022489",
+        "739919240",
+        "794059930",
+        "154658675",
+        "-1565229704"
       ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "-1241738855",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_949067_crop2608_-1883140432",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqXGqN+FGO+uwdgNZwbPUt+NzOPlf2dba8D6xeeQEL5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqXGqN+FGO+uwdgNZwbPUH0MIRcCxhcPsFZnQmR3+g5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-1643022489",
+        "739919240",
+        "794059930",
+        "154658675",
+        "-1565229704"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "-1241738855",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_949067_crop2608_-1719704445",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvnL3+HfbCXx6NBDDHEe+3ryjc9vVoCKNcsIEGaVSOPZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvnL3+HfbCXx6NBDDHEe+3gattqA3z3Nu75NeTWhXbbJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-1643022489",
+        "739919240",
+        "794059930",
+        "154658675",
+        "-1565229704"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "2225266",
+      "name_nortag": "Goku",
+      "total_img": 321
+    },
+    {
+      "id_nortag": "-1565229704",
+      "name_nortag": "Izuku Midoriya",
+      "total_img": 177
+    },
+    {
+      "id_nortag": "739919240",
+      "name_nortag": "Light Yagami",
+      "total_img": 24
+    },
+    {
+      "id_nortag": "-1643022489",
+      "name_nortag": "Monkey D Luffy",
+      "total_img": 156
+    },
+    {
+      "id_nortag": "154658675",
+      "name_nortag": "Naruto Uzumaki",
+      "total_img": 292
+    },
+    {
+      "id_nortag": "794059930",
+      "name_nortag": "Soma Yukihira",
+      "total_img": 3
     }
   ]
 }

@@ -4,20 +4,20 @@
   "name_nortag": "Ship",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "468914461",
-  "hc_lt_data_img": "1165902270",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1544759716",
+  "hc_lt_alb": "1532321763",
+  "hc_lt_data_img": "252239789",
+  "hc_lt_nortag": "-1283488632",
+  "hc_lt_sptag": "634101306",
   "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
     {
       "id_alb": "-1435405384",
       "name_alb": "Granblue Fantasy",
       "total_img": 44
-    },
-    {
-      "id_alb": "-2077965603",
-      "name_alb": "Scenery Arts",
-      "total_img": 2036
     },
     {
       "id_alb": "1106267514",
@@ -25,44 +25,20 @@
       "total_img": 1036
     },
     {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
-    {
       "id_alb": "109656518",
       "name_alb": "Original 5",
       "total_img": 820
+    },
+    {
+      "id_alb": "-2077965603",
+      "name_alb": "Scenery Arts",
+      "total_img": 2036
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "1516832325",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "GranblueFantasy_877952_crop2608_-1037656649",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid53HQmOty4Ioe95FZx5juNv4a/VdpVuSNqPN1MTAoFnpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid53HQmOty4Ioe95FZx5juN1pV/M9nLUt3WsfosLRBgf5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1435405384",
-        "-2077965603"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1516832325",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "GranblueFantasy_877952_crop2608_16660283",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidB4i+cYnOFecj0qDjldGtjX1/NS6YmTmCQ/RQgYXzbWpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidB4i+cYnOFecj0qDjldGtjGzWhIDhrgPGcTeZwtGtV9pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1435405384",
-        "-2077965603"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1054014157",
       "hc_lt_id_sptag": "-1588328384",
       "id_img": "KantaiCollection_933817_crop2608_-1588974604",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3EmW8tayS7Pc6xCs8YPXd/R4NDjYnWrDeOUyc1uqNWZVy4706IhQgSYlgwrgVRHU=",
@@ -70,6 +46,11 @@
       "lt_id_alb": [
         "1106267514",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "992088627",
+        "79944435",
+        "2575964"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -83,7 +64,7 @@
     },
     {
       "hc_lt_id_alb": "-1863681004",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "227662379",
       "hc_lt_id_sptag": "",
       "id_img": "Original_792975_crop2608_-879965593",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLVrG5RFoGff58r1XEMtHKWiqYq4bCY5jrA5I3SCzvdZVy4706IhQgSYlgwrgVRHU=",
@@ -91,21 +72,116 @@
       "lt_id_alb": [
         "-2077965603",
         "109656518"
+      ],
+      "list_id_nortag": [
+        "80204865",
+        "66661",
+        "582915846",
+        "83500",
+        "1649",
+        "2189944",
+        "65203733",
+        "2575964"
       ]
+    },
+    {
+      "hc_lt_id_alb": "1516832325",
+      "hc_lt_id_nortag": "278559116",
+      "hc_lt_id_sptag": "",
+      "id_img": "GranblueFantasy_877952_crop2608_16660283",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidB4i+cYnOFecj0qDjldGtjX1/NS6YmTmCQ/RQgYXzbWpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidB4i+cYnOFecj0qDjldGtjGzWhIDhrgPGcTeZwtGtV9pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1435405384",
+        "-2077965603"
+      ],
+      "list_id_nortag": [
+        "83201",
+        "65203733",
+        "2575964"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1516832325",
+      "hc_lt_id_nortag": "278559116",
+      "hc_lt_id_sptag": "",
+      "id_img": "GranblueFantasy_877952_crop2608_-1037656649",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid53HQmOty4Ioe95FZx5juNv4a/VdpVuSNqPN1MTAoFnpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid53HQmOty4Ioe95FZx5juN1pV/M9nLUt3WsfosLRBgf5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1435405384",
+        "-2077965603"
+      ],
+      "list_id_nortag": [
+        "83201",
+        "65203733",
+        "2575964"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1649",
+      "name_nortag": "3D",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "66661",
+      "name_nortag": "CGI",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "65203733",
+      "name_nortag": "Cloud",
+      "total_img": 163
+    },
+    {
+      "id_nortag": "582915846",
+      "name_nortag": "Fantasy",
+      "total_img": 83
+    },
+    {
+      "id_nortag": "2189944",
+      "name_nortag": "Fish",
+      "total_img": 66
+    },
+    {
+      "id_nortag": "2575964",
+      "name_nortag": "Ship",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "79944435",
+      "name_nortag": "Skirt",
+      "total_img": 368
+    },
+    {
+      "id_nortag": "83201",
+      "name_nortag": "Sky",
+      "total_img": 168
+    },
+    {
+      "id_nortag": "80204865",
+      "name_nortag": "Stars",
+      "total_img": 83
+    },
+    {
+      "id_nortag": "83500",
+      "name_nortag": "Sun",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "992088627",
+      "name_nortag": "Yuudachi Kancolle",
+      "total_img": 45
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
       "id_sptag": "-1364967268",
@@ -114,22 +190,28 @@
       "total": 12697
     },
     {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
       "id_sptag": "1439506876",
       "key_sptag": "isGirlScarfAnime",
       "name_sptag": "Girls Scarf",
       "total": 3306
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
     },
     {
       "id_sptag": "1911583362",

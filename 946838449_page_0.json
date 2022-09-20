@@ -4,11 +4,16 @@
   "name_nortag": "Saijaku Muhai no Bahamut",
   "total_img": 8,
   "total_page": 0,
-  "hc_lt_alb": "-885425962",
-  "hc_lt_data_img": "1291393359",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "624982453",
+  "hc_lt_alb": "1940873916",
+  "hc_lt_data_img": "-441958088",
+  "hc_lt_nortag": "-334958646",
+  "hc_lt_sptag": "1197155299",
   "lt_alb": [
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
+    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
@@ -20,11 +25,6 @@
       "total_img": 19
     },
     {
-      "id_alb": "2024260576",
-      "name_alb": "Couple",
-      "total_img": 2059
-    },
-    {
       "id_alb": "505986750",
       "name_alb": "Unrefined",
       "total_img": 824
@@ -32,87 +32,24 @@
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "-1141733935",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1062240341",
-      "id_img": "UndefeatedBahamutChronicle_714325_crop2608_954638821",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejA57uL7HDn+8CXuN6iikyVdrnoWzMfWCWGIup4Z9sr5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejA57uL7HDn+8CXuN6iikyllWFk1L7TRfBk69YVEIxIZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "2028158944",
+      "hc_lt_id_nortag": "-1400185171",
+      "hc_lt_id_sptag": "",
+      "id_img": "UndefeatedBahamutChronicle_714589_crop2608_-376554185",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievsnz14W+ToIEDzVcnBip8V9f2IjBBMesvt3NCxeMQWpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievsnz14W+ToIEDzVcnBip8pQgNdFW15MLt09bfhp+cspVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "68811063",
+        "2024260576",
         "-560454338"
       ],
-      "lt_id_sptag": [
-        "-1811357781",
-        "154003721",
-        "-1364967268",
-        "-326078627",
-        "1911583362"
+      "list_id_nortag": [
+        "946838449",
+        "1225651320"
       ]
     },
     {
       "hc_lt_id_alb": "-1141733935",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-153737951",
-      "id_img": "UndefeatedBahamutChronicle_714326_crop2608_-247656648",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHuttXtDPU7L7hUvnm0HtqP3gUrShvXPUP4bSIiqGofZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHuttXtDPU7L7hUvnm0HtqZ7biPfoefmhVh4Pui9ZB+5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-560454338"
-      ],
-      "lt_id_sptag": [
-        "891390002",
-        "-1811357781",
-        "-326078627",
-        "-143534545",
-        "1439812287",
-        "1911583362",
-        "635218351"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1141733935",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1252413002",
-      "id_img": "UndefeatedBahamutChronicle_714327_crop2608_1259895161",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPYg287OW+e/JhY7Cba0SGa/9NMvaxPW+AgVBL1YpB+ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPYg287OW+e/JhY7Cba0SGH8bnGwzEH7ZR1QT/P+aSc5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-560454338"
-      ],
-      "lt_id_sptag": [
-        "-1811357781",
-        "154003721",
-        "-326078627",
-        "1911583362",
-        "635218351"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1141733935",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "2075918267",
-      "id_img": "UndefeatedBahamutChronicle_714328_crop2608_-1527520326",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidV/npdBkjVicNySmvatPOXILpo57xrMoQA+W0xGJxTmpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidV/npdBkjVicNySmvatPOXn+sYu5MO47LL9AaKGHIKgpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-560454338"
-      ],
-      "lt_id_sptag": [
-        "891390002",
-        "-1811357781",
-        "-143120565",
-        "1211227273",
-        "-326078627",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1141733935",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1476221866",
       "hc_lt_id_sptag": "-2062082758",
       "id_img": "UndefeatedBahamutChronicle_714586_crop2608_-604242316",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicifv/RL9DuF8LU9xqrCa8JzTTymQD86vI7Ax+6lx26O5Vy4706IhQgSYlgwrgVRHU=",
@@ -120,6 +57,9 @@
       "lt_id_alb": [
         "68811063",
         "-560454338"
+      ],
+      "list_id_nortag": [
+        "946838449"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -136,8 +76,30 @@
       ]
     },
     {
+      "hc_lt_id_alb": "-1141733935",
+      "hc_lt_id_nortag": "-1476221866",
+      "hc_lt_id_sptag": "-1252413002",
+      "id_img": "UndefeatedBahamutChronicle_714327_crop2608_1259895161",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPYg287OW+e/JhY7Cba0SGa/9NMvaxPW+AgVBL1YpB+ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPYg287OW+e/JhY7Cba0SGH8bnGwzEH7ZR1QT/P+aSc5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-560454338"
+      ],
+      "list_id_nortag": [
+        "946838449"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "154003721",
+        "-326078627",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
       "hc_lt_id_alb": "2028158944",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1476221866",
       "hc_lt_id_sptag": "",
       "id_img": "UndefeatedBahamutChronicle_714587_crop2608_903309493",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieeXFAoMwOa6W78qAN1aB+cN0s4qcFixBcKXTPKWDUym5Vy4706IhQgSYlgwrgVRHU=",
@@ -145,23 +107,84 @@
       "lt_id_alb": [
         "2024260576",
         "-560454338"
+      ],
+      "list_id_nortag": [
+        "946838449"
       ]
     },
     {
-      "hc_lt_id_alb": "2028158944",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "UndefeatedBahamutChronicle_714589_crop2608_-376554185",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievsnz14W+ToIEDzVcnBip8V9f2IjBBMesvt3NCxeMQWpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievsnz14W+ToIEDzVcnBip8pQgNdFW15MLt09bfhp+cspVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "-1141733935",
+      "hc_lt_id_nortag": "-1476221866",
+      "hc_lt_id_sptag": "2075918267",
+      "id_img": "UndefeatedBahamutChronicle_714328_crop2608_-1527520326",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidV/npdBkjVicNySmvatPOXILpo57xrMoQA+W0xGJxTmpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidV/npdBkjVicNySmvatPOXn+sYu5MO47LL9AaKGHIKgpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "2024260576",
+        "68811063",
         "-560454338"
+      ],
+      "list_id_nortag": [
+        "946838449"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-1811357781",
+        "-143120565",
+        "1211227273",
+        "-326078627",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1141733935",
+      "hc_lt_id_nortag": "-1476221866",
+      "hc_lt_id_sptag": "-153737951",
+      "id_img": "UndefeatedBahamutChronicle_714326_crop2608_-247656648",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHuttXtDPU7L7hUvnm0HtqP3gUrShvXPUP4bSIiqGofZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHuttXtDPU7L7hUvnm0HtqZ7biPfoefmhVh4Pui9ZB+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-560454338"
+      ],
+      "list_id_nortag": [
+        "946838449"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-1811357781",
+        "-326078627",
+        "-143534545",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1141733935",
+      "hc_lt_id_nortag": "-1400185171",
+      "hc_lt_id_sptag": "1062240341",
+      "id_img": "UndefeatedBahamutChronicle_714325_crop2608_954638821",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejA57uL7HDn+8CXuN6iikyVdrnoWzMfWCWGIup4Z9sr5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejA57uL7HDn+8CXuN6iikyllWFk1L7TRfBk69YVEIxIZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-560454338"
+      ],
+      "list_id_nortag": [
+        "946838449",
+        "1225651320"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "154003721",
+        "-1364967268",
+        "-326078627",
+        "1911583362"
       ]
     },
     {
       "hc_lt_id_alb": "-552953805",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1400185171",
       "hc_lt_id_sptag": "",
       "id_img": "UndefeatedBahamutChronicle_714590_crop2608_-1570152755",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieX0cco5vgTUyRnNTMlYQ22T4XyRXNlx2Y9FUPfHR+a5ZVy4706IhQgSYlgwrgVRHU=",
@@ -169,21 +192,37 @@
       "lt_id_alb": [
         "505986750",
         "-560454338"
+      ],
+      "list_id_nortag": [
+        "946838449",
+        "1225651320"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1225651320",
+      "name_nortag": "Lisesharte Atismata",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "946838449",
+      "name_nortag": "Saijaku Muhai no Bahamut",
+      "total_img": 8
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
+      "id_sptag": "635372596",
+      "key_sptag": "isGirlEyesGreyAnime",
+      "name_sptag": "Girls Eyes Grey",
+      "total": 2483
     },
     {
       "id_sptag": "-1364967268",
@@ -192,46 +231,10 @@
       "total": 12697
     },
     {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
+      "id_sptag": "1043155746",
+      "key_sptag": "isGirlEyesSilvertAnime",
+      "name_sptag": "Girls Eyes Silver",
+      "total": 1109
     },
     {
       "id_sptag": "1211227273",
@@ -240,22 +243,10 @@
       "total": 6605
     },
     {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
-    },
-    {
-      "id_sptag": "1043155746",
-      "key_sptag": "isGirlEyesSilvertAnime",
-      "name_sptag": "Girls Eyes Silver",
-      "total": 1109
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
     },
     {
       "id_sptag": "-143380300",
@@ -264,10 +255,58 @@
       "total": 9239
     },
     {
-      "id_sptag": "635372596",
-      "key_sptag": "isGirlEyesGreyAnime",
-      "name_sptag": "Girls Eyes Grey",
-      "total": 2483
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

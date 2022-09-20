@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "1416032972",
-  "hc_lt_data_img": "1874979860",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-1055950862",
+  "hc_lt_nortag": "1334578335",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1247249457",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1916095000",
       "hc_lt_id_sptag": "",
       "id_img": "AttackOnTitan_607708_crop2608_-799314300",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4Sz9ZGCptLkJDJiS8seRW5p9Ww/k2t5xJnFwHzUi1Q5Vy4706IhQgSYlgwrgVRHU=",
@@ -31,7 +31,29 @@
       "lt_id_alb": [
         "1668009539",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-1193189706",
+        "-928006557",
+        "-979079592"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-979079592",
+      "name_nortag": "Levi Ackerman",
+      "total_img": 232
+    },
+    {
+      "id_nortag": "-1193189706",
+      "name_nortag": "Scouting Legion",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "-928006557",
+      "name_nortag": "Shingeki No Kyojin",
+      "total_img": 201
     }
   ]
 }

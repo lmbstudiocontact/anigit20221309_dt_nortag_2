@@ -5,9 +5,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-318374403",
-  "hc_lt_data_img": "463907287",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1560173946",
+  "hc_lt_data_img": "850120663",
+  "hc_lt_nortag": "-1198521680",
+  "hc_lt_sptag": "33497786",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,56 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1434060222",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "815438965",
+      "hc_lt_id_sptag": "-1950056367",
+      "id_img": "SwordArtOnlineAlternativeGunGaleOnline_916492_crop2608_-1330735090",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwW7ua1REPnRgSRr2g4TudHWXBziUB97b13yA4CvF2/pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwW7ua1REPnRgSRr2g4Tud6wFSOKvgKn5/a5immhE5lpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1019582432"
+      ],
+      "list_id_nortag": [
+        "-173084494",
+        "1530192907"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-1811357781",
+        "-369654561",
+        "-1436512555",
+        "-326078627",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1434060222",
+      "hc_lt_id_nortag": "815438965",
+      "hc_lt_id_sptag": "775552142",
+      "id_img": "SwordArtOnlineAlternativeGunGaleOnline_913760_crop2608_-434804989",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQPiZhG8/ar2I8ym301uFhn3Ar4mYI1EEQB3rk2kkIn5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQPiZhG8/ar2I8ym301uFhZdYkiRCNdftXg/K/MBPVqJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1019582432"
+      ],
+      "list_id_nortag": [
+        "-173084494",
+        "1530192907"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-1811357781",
+        "-1782893951",
+        "-326078627",
+        "1439812287"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1434060222",
+      "hc_lt_id_nortag": "286971437",
       "hc_lt_id_sptag": "-905797726",
       "id_img": "SwordArtOnlineAlternativeGunGaleOnline_914088_crop2608_-434781855",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiehQBsrMsGO/DxxGWs5pQhJYH47++bncBVugGYkWo+4cZVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +80,13 @@
       "lt_id_alb": [
         "68811063",
         "-1019582432"
+      ],
+      "list_id_nortag": [
+        "1793681432",
+        "-173084494",
+        "71968",
+        "1530192907",
+        "-1290167154"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -47,7 +103,7 @@
     },
     {
       "hc_lt_id_alb": "-1434060222",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "286971437",
       "hc_lt_id_sptag": "-568824961",
       "id_img": "SwordArtOnlineAlternativeGunGaleOnline_912954_crop2608_1596441245",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEJTrBYoqYdNe9X3boO6LoJS7OGvsw7v7APS4M0ke0dJVy4706IhQgSYlgwrgVRHU=",
@@ -55,6 +111,13 @@
       "lt_id_alb": [
         "68811063",
         "-1019582432"
+      ],
+      "list_id_nortag": [
+        "1793681432",
+        "-173084494",
+        "71968",
+        "1530192907",
+        "-1290167154"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -68,67 +131,41 @@
         "635218351",
         "-143528947"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-173084494",
+      "name_nortag": "Elsa Kanzaki",
+      "total_img": 4
     },
     {
-      "hc_lt_id_alb": "-1434060222",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1950056367",
-      "id_img": "SwordArtOnlineAlternativeGunGaleOnline_916492_crop2608_-1330735090",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwW7ua1REPnRgSRr2g4TudHWXBziUB97b13yA4CvF2/pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwW7ua1REPnRgSRr2g4Tud6wFSOKvgKn5/a5immhE5lpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-1019582432"
-      ],
-      "lt_id_sptag": [
-        "-154622774",
-        "-1811357781",
-        "-369654561",
-        "-1436512555",
-        "-326078627",
-        "1439812287",
-        "1911583362",
-        "635218351"
-      ]
+      "id_nortag": "71968",
+      "name_nortag": "Gun",
+      "total_img": 55
     },
     {
-      "hc_lt_id_alb": "-1434060222",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "775552142",
-      "id_img": "SwordArtOnlineAlternativeGunGaleOnline_913760_crop2608_-434804989",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQPiZhG8/ar2I8ym301uFhn3Ar4mYI1EEQB3rk2kkIn5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQPiZhG8/ar2I8ym301uFhZdYkiRCNdftXg/K/MBPVqJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-1019582432"
-      ],
-      "lt_id_sptag": [
-        "-154622774",
-        "-1811357781",
-        "-1782893951",
-        "-326078627",
-        "1439812287"
-      ]
+      "id_nortag": "1793681432",
+      "name_nortag": "Karen Kohiruimaki",
+      "total_img": 27
+    },
+    {
+      "id_nortag": "-1290167154",
+      "name_nortag": "LLENN Sword Art Online",
+      "total_img": 28
+    },
+    {
+      "id_nortag": "1530192907",
+      "name_nortag": "Pitohui Sword Art Online",
+      "total_img": 4
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
     },
     {
       "id_sptag": "1600730941",
@@ -137,16 +174,10 @@
       "total": 31431
     },
     {
-      "id_sptag": "-369535327",
-      "key_sptag": "isGirlHatsAnime",
-      "name_sptag": "Girls Hats",
-      "total": 11965
-    },
-    {
-      "id_sptag": "71899412",
-      "key_sptag": "isGirlHairVioletAnime",
-      "name_sptag": "Girls Hair Violet",
-      "total": 2650
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
     },
     {
       "id_sptag": "410439701",
@@ -155,22 +186,22 @@
       "total": 7031
     },
     {
-      "id_sptag": "1439506876",
-      "key_sptag": "isGirlScarfAnime",
-      "name_sptag": "Girls Scarf",
-      "total": 3306
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
     },
     {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
     },
     {
       "id_sptag": "-154622774",
@@ -179,34 +210,40 @@
       "total": 16737
     },
     {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
     },
     {
-      "id_sptag": "1440489992",
-      "key_sptag": "isGirlTearsAnime",
-      "name_sptag": "Girls Tears",
-      "total": 1511
+      "id_sptag": "1439506876",
+      "key_sptag": "isGirlScarfAnime",
+      "name_sptag": "Girls Scarf",
+      "total": 3306
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
-      "id_sptag": "-369654561",
-      "key_sptag": "isGirlDarkAnime",
-      "name_sptag": "Girls Dark",
-      "total": 3468
-    },
-    {
-      "id_sptag": "-1436512555",
-      "key_sptag": "isDarkBlack",
-      "name_sptag": "Dark Black",
-      "total": 4051
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     },
     {
       "id_sptag": "1439812287",
@@ -215,10 +252,22 @@
       "total": 24284
     },
     {
-      "id_sptag": "-1782893951",
-      "key_sptag": "isGirlEyesBrownAnime",
-      "name_sptag": "Girls Eyes Brown",
-      "total": 9376
+      "id_sptag": "1440489992",
+      "key_sptag": "isGirlTearsAnime",
+      "name_sptag": "Girls Tears",
+      "total": 1511
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

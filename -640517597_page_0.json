@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "24110614",
-  "hc_lt_data_img": "1917404012",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1190608676",
+  "hc_lt_nortag": "1934632832",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-61574531",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1719816868",
       "hc_lt_id_sptag": "",
       "id_img": "Wakfu_647743_crop2608_943908798",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTANsXtALMuKYRvTTeKrZld5WPVY/yVXrOL9aobUp84ZVy4706IhQgSYlgwrgVRHU=",
@@ -31,7 +31,17 @@
       "lt_id_alb": [
         "66988",
         "83342160"
+      ],
+      "list_id_nortag": [
+        "-640517597"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-640517597",
+      "name_nortag": "Ruel Stroud",
+      "total_img": 1
     }
   ]
 }

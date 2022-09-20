@@ -5,9 +5,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "1879206079",
-  "hc_lt_data_img": "-1476646728",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-782037464",
+  "hc_lt_data_img": "-1516508286",
+  "hc_lt_nortag": "-1359009311",
+  "hc_lt_sptag": "949294906",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-365719384",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-760535717",
       "hc_lt_id_sptag": "-119591336",
       "id_img": "Original_766114_crop2608_1279238173",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsbBqnL1O5QZp2GCX6EMTZVGmurxRl8Uf8jRwa5vN9EJVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,10 @@
       "lt_id_alb": [
         "68811063",
         "109656517"
+      ],
+      "list_id_nortag": [
+        "-1824110700",
+        "66986"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -44,24 +48,24 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "66986",
+      "name_nortag": "Bow",
+      "total_img": 17
+    },
+    {
+      "id_nortag": "-1824110700",
+      "name_nortag": "School",
+      "total_img": 1
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
-    },
-    {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "-135339788",
-      "key_sptag": "isGirlHairWhiteAnime",
-      "name_sptag": "Girls Hair White",
-      "total": 8666
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
       "id_sptag": "-1364967268",
@@ -70,22 +74,34 @@
       "total": 12697
     },
     {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
+    {
+      "id_sptag": "-135339788",
+      "key_sptag": "isGirlHairWhiteAnime",
+      "name_sptag": "Girls Hair White",
+      "total": 8666
+    },
+    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
       "id_sptag": "1439812287",
       "key_sptag": "isGirlSmileAnime",
       "name_sptag": "Girls Smile",
       "total": 24284
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
     },
     {
       "id_sptag": "1911583362",

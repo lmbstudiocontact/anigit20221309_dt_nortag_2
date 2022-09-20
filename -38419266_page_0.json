@@ -4,20 +4,20 @@
   "name_nortag": "Renji Yomo",
   "total_img": 6,
   "total_page": 0,
-  "hc_lt_alb": "322321783",
-  "hc_lt_data_img": "-2095171173",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1515262564",
+  "hc_lt_alb": "-1070787",
+  "hc_lt_data_img": "1251097530",
+  "hc_lt_nortag": "345665247",
+  "hc_lt_sptag": "1706227438",
   "lt_alb": [
-    {
-      "id_alb": "57904715",
-      "name_alb": "Tokyo Ghoul",
-      "total_img": 279
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "57904715",
+      "name_alb": "Tokyo Ghoul",
+      "total_img": 279
     },
     {
       "id_alb": "-188140098",
@@ -28,35 +28,30 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "583030106",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1614125515",
-      "id_img": "TokyoGhoul_596843_crop2608_566115205",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6guVX+49EpFoxAGaA2tplWH3SJ6wZm1JfxTAJ2SrV4ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6guVX+49EpFoxAGaA2tplWEi304RGigUNh+Q/E69AhZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-387706087",
+      "hc_lt_id_sptag": "",
+      "id_img": "TokyoGhoul_917637_crop2608_-504749235",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicD3Yr+xQvW6q/n7KnvEAWwWie3qry4bD1LN894G2xe9ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicD3Yr+xQvW6q/n7KnvEAWwzmOvpU7kcBlBJvanq3xZUZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "57904715",
         "66988"
       ],
-      "lt_id_sptag": [
-        "-1880367671",
-        "-1436512555"
+      "list_id_nortag": [
+        "-610608603",
+        "-711817417",
+        "-2019076947",
+        "2023988285",
+        "1153790640",
+        "-529856340",
+        "-38419266",
+        "-1796966291",
+        "702924121"
       ]
     },
     {
       "hc_lt_id_alb": "-1793655724",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "TokyoGhoulre_956800_crop2608_-1504045507",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieihsVWl8S8UQGa8qj1g153t4sopFh8oP50+rwxbonlUpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieihsVWl8S8UQGa8qj1g1531rI1ow0J+vC8eHA+n89y1pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-188140098",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1793655724",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "914973598",
       "hc_lt_id_sptag": "",
       "id_img": "TokyoGhoulre_956800_crop2608_1136552784",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKiLOUonoFzo4r+sSu1tsvvJ59ZRzjMfwhm/WCDMBCW5Vy4706IhQgSYlgwrgVRHU=",
@@ -64,11 +59,18 @@
       "lt_id_alb": [
         "-188140098",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-711817417",
+        "1992679946",
+        "-1218551728",
+        "-38419266",
+        "-339618269"
       ]
     },
     {
       "hc_lt_id_alb": "583030106",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1161210423",
       "hc_lt_id_sptag": "862791854",
       "id_img": "TokyoGhoul_868523_crop2608_-845512639",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicB+6H7j6KswV/eJPWf8RfyK/PAhWNXufCXtLXCFXIzeZVy4706IhQgSYlgwrgVRHU=",
@@ -77,26 +79,57 @@
         "57904715",
         "66988"
       ],
+      "list_id_nortag": [
+        "-2019076947",
+        "-38419266"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
       ]
     },
     {
-      "hc_lt_id_alb": "583030106",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "-1793655724",
+      "hc_lt_id_nortag": "914973598",
       "hc_lt_id_sptag": "",
-      "id_img": "TokyoGhoul_917637_crop2608_-504749235",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicD3Yr+xQvW6q/n7KnvEAWwWie3qry4bD1LN894G2xe9ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicD3Yr+xQvW6q/n7KnvEAWwzmOvpU7kcBlBJvanq3xZUZVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "TokyoGhoulre_956800_crop2608_-1504045507",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieihsVWl8S8UQGa8qj1g153t4sopFh8oP50+rwxbonlUpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieihsVWl8S8UQGa8qj1g1531rI1ow0J+vC8eHA+n89y1pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "57904715",
+        "-188140098",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-711817417",
+        "1992679946",
+        "-1218551728",
+        "-38419266",
+        "-339618269"
       ]
     },
     {
       "hc_lt_id_alb": "583030106",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-2079259677",
+      "hc_lt_id_sptag": "1614125515",
+      "id_img": "TokyoGhoul_596843_crop2608_566115205",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6guVX+49EpFoxAGaA2tplWH3SJ6wZm1JfxTAJ2SrV4ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6guVX+49EpFoxAGaA2tplWEi304RGigUNh+Q/E69AhZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "57904715",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "-711817417",
+        "-38419266"
+      ],
+      "lt_id_sptag": [
+        "-1880367671",
+        "-1436512555"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "583030106",
+      "hc_lt_id_nortag": "-387706087",
       "hc_lt_id_sptag": "862791854",
       "id_img": "TokyoGhoul_917637_crop2608_319716448",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4kZyRADzsyaftTYvWJ0XUG4X1D3IXA+4OM9/mN4Cq2pVy4706IhQgSYlgwrgVRHU=",
@@ -105,10 +138,83 @@
         "57904715",
         "66988"
       ],
+      "list_id_nortag": [
+        "-610608603",
+        "-711817417",
+        "-2019076947",
+        "2023988285",
+        "1153790640",
+        "-529856340",
+        "-38419266",
+        "-1796966291",
+        "702924121"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
+    },
+    {
+      "id_nortag": "2023988285",
+      "name_nortag": "Collar",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "702924121",
+      "name_nortag": "Eye Patch",
+      "total_img": 38
+    },
+    {
+      "id_nortag": "-1218551728",
+      "name_nortag": "Hinami Fueguchi",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "-711817417",
+      "name_nortag": "Ken Kaneki",
+      "total_img": 255
+    },
+    {
+      "id_nortag": "-610608603",
+      "name_nortag": "Piercing",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-38419266",
+      "name_nortag": "Renji Yomo",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "1153790640",
+      "name_nortag": "Shu Tsukiyama",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-529856340",
+      "name_nortag": "Sitting",
+      "total_img": 61
+    },
+    {
+      "id_nortag": "-1796966291",
+      "name_nortag": "Tattoo",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "-339618269",
+      "name_nortag": "Touka Kirishima",
+      "total_img": 89
+    },
+    {
+      "id_nortag": "-2019076947",
+      "name_nortag": "Uta Tokyo Ghoul",
+      "total_img": 17
     }
   ],
   "lt_sptag": [
@@ -117,6 +223,12 @@
       "key_sptag": "isBoyDarkBlack",
       "name_sptag": "Boy Dark Black",
       "total": 573
+    },
+    {
+      "id_sptag": "1736318786",
+      "key_sptag": "isBoySad",
+      "name_sptag": "Boy Sad",
+      "total": 1551
     },
     {
       "id_sptag": "-1436512555",
@@ -129,12 +241,6 @@
       "key_sptag": "isSad",
       "name_sptag": "Sad",
       "total": 12057
-    },
-    {
-      "id_sptag": "1736318786",
-      "key_sptag": "isBoySad",
-      "name_sptag": "Boy Sad",
-      "total": 1551
     }
   ]
 }

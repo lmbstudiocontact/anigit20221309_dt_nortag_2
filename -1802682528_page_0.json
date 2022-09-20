@@ -4,15 +4,15 @@
   "name_nortag": "Squirtle Pokemon",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "-11024560",
-  "hc_lt_data_img": "-1156519632",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "-1910072112",
+  "hc_lt_data_img": "-1279533021",
+  "hc_lt_nortag": "878013642",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
-      "id_alb": "505986750",
-      "name_alb": "Unrefined",
-      "total_img": 824
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     },
     {
       "id_alb": "-892807948",
@@ -20,15 +20,15 @@
       "total_img": 505
     },
     {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
+      "id_alb": "505986750",
+      "name_alb": "Unrefined",
+      "total_img": 824
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1138115342",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "49015062",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_122953_crop2608_-463851389",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiesLmdpn9xCLRrNAZUVFA3tGAcsV1hHqYNn90sdwRhBBZVy4706IhQgSYlgwrgVRHU=",
@@ -36,35 +36,15 @@
       "lt_id_alb": [
         "505986750",
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "633717388",
+        "-1802682528"
       ]
     },
     {
       "hc_lt_id_alb": "-1753034870",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_860262_crop2608_-1823988340",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyaWiFcOcwA+DRc5hBLjZHeIF3skXG/LUYOARFLv39EZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyaWiFcOcwA+DRc5hBLjZHErQDBIQhmhDuEBgck77045Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1753034870",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_860262_crop2608_1071604665",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFJkOSAM/mJuRQz/bJOMuFjYA0P1nmUbW/+pOccw4BH5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFJkOSAM/mJuRQz/bJOMuFy/e1Cmf0uugic+G7JDPbppVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1753034870",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-2000993965",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_860262_crop2608_979251577",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezVwbjAjPyULbl986g9RcBYFggxv2ugQ0sqa/+XS3cHZVy4706IhQgSYlgwrgVRHU=",
@@ -72,7 +52,84 @@
       "lt_id_alb": [
         "66988",
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "417160428",
+        "1973924694",
+        "-1802682528",
+        "-1293365822",
+        "-1565229704"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-1753034870",
+      "hc_lt_id_nortag": "-2000993965",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_860262_crop2608_1071604665",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFJkOSAM/mJuRQz/bJOMuFjYA0P1nmUbW/+pOccw4BH5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFJkOSAM/mJuRQz/bJOMuFy/e1Cmf0uugic+G7JDPbppVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "417160428",
+        "1973924694",
+        "-1802682528",
+        "-1293365822",
+        "-1565229704"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1753034870",
+      "hc_lt_id_nortag": "-2000993965",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_860262_crop2608_-1823988340",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyaWiFcOcwA+DRc5hBLjZHeIF3skXG/LUYOARFLv39EZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyaWiFcOcwA+DRc5hBLjZHErQDBIQhmhDuEBgck77045Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "417160428",
+        "1973924694",
+        "-1802682528",
+        "-1293365822",
+        "-1565229704"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1973924694",
+      "name_nortag": "Bulbasaur Pokemon",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-1565229704",
+      "name_nortag": "Izuku Midoriya",
+      "total_img": 177
+    },
+    {
+      "id_nortag": "633717388",
+      "name_nortag": "Kamina Tengen Toppa Gurren Lagann",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "-1293365822",
+      "name_nortag": "Katsuki Bakugou",
+      "total_img": 135
+    },
+    {
+      "id_nortag": "417160428",
+      "name_nortag": "Shoto Todoroki",
+      "total_img": 31
+    },
+    {
+      "id_nortag": "-1802682528",
+      "name_nortag": "Squirtle Pokemon",
+      "total_img": 4
     }
   ]
 }

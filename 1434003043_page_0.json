@@ -5,9 +5,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-1873029647",
-  "hc_lt_data_img": "167399500",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-279342523",
+  "hc_lt_data_img": "-1880864510",
+  "hc_lt_nortag": "-234305156",
+  "hc_lt_sptag": "66414229",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "2020783363",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1670752225",
       "hc_lt_id_sptag": "-1451906612",
       "id_img": "WIXOSS_916450_crop2608_1851151993",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqcaovjKXE8rZlCuWeQVAsq4uexvQPiY0ttKzBZu4up5Vy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,10 @@
       "lt_id_alb": [
         "68811063",
         "-1734113943"
+      ],
+      "list_id_nortag": [
+        "1434003043",
+        "-603618010"
       ],
       "lt_id_sptag": [
         "-2139213873",
@@ -42,7 +46,30 @@
     },
     {
       "hc_lt_id_alb": "2020783363",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1670752225",
+      "hc_lt_id_sptag": "2141815056",
+      "id_img": "WIXOSS_930944_crop2608_1113641703",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR+6WkDUtU0VMXCuttGdyLNRG4aeeFQ/F0BhVTs7Qo4JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR+6WkDUtU0VMXCuttGdyL2yhJsOH7euuMxKhPdeWsNZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1734113943"
+      ],
+      "list_id_nortag": [
+        "1434003043",
+        "-603618010"
+      ],
+      "lt_id_sptag": [
+        "635632331",
+        "-326078627",
+        "1129122964",
+        "-143534545",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "2020783363",
+      "hc_lt_id_nortag": "1134445567",
       "hc_lt_id_sptag": "-214627708",
       "id_img": "WIXOSS_956701_crop2608_-1755268812",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5mCYA0RrOToTMVzcBDiqjmKwSN6/YyFEInTFFLvzdSZVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +77,11 @@
       "lt_id_alb": [
         "68811063",
         "-1734113943"
+      ],
+      "list_id_nortag": [
+        "1434003043",
+        "1773321482",
+        "-603618010"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -61,51 +93,31 @@
         "1911583362",
         "635218351"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1773321482",
+      "name_nortag": "Glasses",
+      "total_img": 150
     },
     {
-      "hc_lt_id_alb": "2020783363",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "2141815056",
-      "id_img": "WIXOSS_930944_crop2608_1113641703",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR+6WkDUtU0VMXCuttGdyLNRG4aeeFQ/F0BhVTs7Qo4JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR+6WkDUtU0VMXCuttGdyL2yhJsOH7euuMxKhPdeWsNZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-1734113943"
-      ],
-      "lt_id_sptag": [
-        "635632331",
-        "-326078627",
-        "1129122964",
-        "-143534545",
-        "1911583362"
-      ]
+      "id_nortag": "-603618010",
+      "name_nortag": "Kiyoi Mizushima",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "1434003043",
+      "name_nortag": "Piruluk WIXOSS",
+      "total_img": 3
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
-    {
-      "id_sptag": "-1743477818",
-      "key_sptag": "isGirlWaterRainAnime",
-      "name_sptag": "Girls Water Rain",
-      "total": 2954
-    },
-    {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
       "id_sptag": "635218351",
@@ -114,10 +126,16 @@
       "total": 25656
     },
     {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
+      "id_sptag": "635632331",
+      "key_sptag": "isGirlEyesPinkAnime",
+      "name_sptag": "Girls Eyes Pink",
+      "total": 1874
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
     },
     {
       "id_sptag": "-1415763167",
@@ -126,10 +144,28 @@
       "total": 2385
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     },
     {
       "id_sptag": "1911583362",
@@ -138,16 +174,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "635632331",
-      "key_sptag": "isGirlEyesPinkAnime",
-      "name_sptag": "Girls Eyes Pink",
-      "total": 1874
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "-1743477818",
+      "key_sptag": "isGirlWaterRainAnime",
+      "name_sptag": "Girls Water Rain",
+      "total": 2954
     }
   ]
 }

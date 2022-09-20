@@ -4,48 +4,43 @@
   "name_nortag": "Sanae Dekomori",
   "total_img": 10,
   "total_page": 0,
-  "hc_lt_alb": "-1516675501",
-  "hc_lt_data_img": "-490022747",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "2052570827",
+  "hc_lt_alb": "460485039",
+  "hc_lt_data_img": "-1554006181",
+  "hc_lt_nortag": "137859458",
+  "hc_lt_sptag": "-1879519679",
   "lt_alb": [
-    {
-      "id_alb": "-1986181303",
-      "name_alb": "Love Chunibyo  Other Delusions",
-      "total_img": 65
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-1986181303",
+      "name_alb": "Love Chunibyo  Other Delusions",
+      "total_img": 65
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "706396414",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "371977401",
       "hc_lt_id_sptag": "",
-      "id_img": "LoveChunibyoOtherDelusions_514129_crop2608_143109326",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/T7F5H7BBsqsVv+WxPMSGeFdRB+l+Ktyao2lWplORSpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/T7F5H7BBsqsVv+WxPMSGV0gGJRs4lTWQcoFe07c/qpVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "LoveChunibyoOtherDelusions_775300_crop2608_601147948",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidN5xz02Er2Vvc0Kb/Du+GuKoChNkXQOH073/akvvE2t5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidN5xz02Er2Vvc0Kb/Du+Gu22A3tSa/mcBI9b/bf62rHpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1986181303"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "706396414",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "LoveChunibyoOtherDelusions_514129_crop2608_449999393",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3w8pnHvra0KUCuFecDq+FLMjgZU7KvHEbpf6YX2N4xZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3w8pnHvra0KUCuFecDq+FxeINcG5l/9BK5mLKCLidFJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1630822982",
+        "1889362778",
+        "-736980623",
+        "316449800"
       ]
     },
     {
       "hc_lt_id_alb": "311398057",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "159625678",
       "hc_lt_id_sptag": "-1713537777",
       "id_img": "LoveChunibyoOtherDelusions_569563_crop2608_-1236545238",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAiyN50ksKKMJ/274tL6vgqi3+Xieh/LliyU3OO7RQn5Vy4706IhQgSYlgwrgVRHU=",
@@ -53,6 +48,11 @@
       "lt_id_alb": [
         "68811063",
         "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1630822982",
+        "1889362778",
+        "-303857400"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -63,68 +63,7 @@
     },
     {
       "hc_lt_id_alb": "311398057",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-873772181",
-      "id_img": "LoveChunibyoOtherDelusions_569563_crop2608_-1853918680",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfllqEWViMAcRerLRzmIIjjJcA82gXHGNfWnJzYYwk55Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfllqEWViMAcRerLRzmIIj9PJBz26XV4iIsxtamlQTPpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-1986181303"
-      ],
-      "lt_id_sptag": [
-        "891390002",
-        "1211227273",
-        "-326078627",
-        "1439812287",
-        "1911583362",
-        "-143528947"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "706396414",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "LoveChunibyoOtherDelusions_775300_crop2608_-152875265",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkEGDmk8G/DCWJzkkfUCZ/ZSMd6g+6fW1jXxrEIA6ApJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkEGDmk8G/DCWJzkkfUCZ/r5VBS+Bff8u4QXqEnvhv1JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1986181303"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "706396414",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "LoveChunibyoOtherDelusions_775300_crop2608_601147948",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidN5xz02Er2Vvc0Kb/Du+GuKoChNkXQOH073/akvvE2t5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidN5xz02Er2Vvc0Kb/Du+Gu22A3tSa/mcBI9b/bf62rHpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1986181303"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "311398057",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1248569835",
-      "id_img": "LoveChunibyoOtherDelusions_835847_crop2608_1667616463",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbKWGSHJz/dH3PiHUzCZty6qFtMXit45QMj9ESblhu5pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbKWGSHJz/dH3PiHUzCZtyRi1dG6vfQMF8sYWdMtsQhJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-1986181303"
-      ],
-      "lt_id_sptag": [
-        "-154622774",
-        "-2139213873",
-        "-271320563",
-        "1911583362",
-        "635218351"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "311398057",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "371977401",
       "hc_lt_id_sptag": "-1163060835",
       "id_img": "LoveChunibyoOtherDelusions_889693_crop2608_-1751984307",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidXMS4SB5udk+8WHnRezPywFr2UtTNfemDTqLhdE9hWPpVy4706IhQgSYlgwrgVRHU=",
@@ -132,6 +71,12 @@
       "lt_id_alb": [
         "68811063",
         "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1630822982",
+        "1889362778",
+        "-736980623",
+        "316449800"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -147,8 +92,25 @@
       ]
     },
     {
+      "hc_lt_id_alb": "706396414",
+      "hc_lt_id_nortag": "371977401",
+      "hc_lt_id_sptag": "",
+      "id_img": "LoveChunibyoOtherDelusions_514129_crop2608_143109326",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/T7F5H7BBsqsVv+WxPMSGeFdRB+l+Ktyao2lWplORSpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/T7F5H7BBsqsVv+WxPMSGV0gGJRs4lTWQcoFe07c/qpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1630822982",
+        "1889362778",
+        "-736980623",
+        "316449800"
+      ]
+    },
+    {
       "hc_lt_id_alb": "311398057",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "371977401",
       "hc_lt_id_sptag": "977316426",
       "id_img": "LoveChunibyoOtherDelusions_889693_crop2608_-652660635",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidURicAxdQeb8Q3vMDv0pKpInBmCRSRLAweUz9+cHbnHpVy4706IhQgSYlgwrgVRHU=",
@@ -156,6 +118,12 @@
       "lt_id_alb": [
         "68811063",
         "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1630822982",
+        "1889362778",
+        "-736980623",
+        "316449800"
       ],
       "lt_id_sptag": [
         "154003721",
@@ -168,8 +136,67 @@
       ]
     },
     {
+      "hc_lt_id_alb": "706396414",
+      "hc_lt_id_nortag": "371977401",
+      "hc_lt_id_sptag": "",
+      "id_img": "LoveChunibyoOtherDelusions_514129_crop2608_449999393",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3w8pnHvra0KUCuFecDq+FLMjgZU7KvHEbpf6YX2N4xZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3w8pnHvra0KUCuFecDq+FxeINcG5l/9BK5mLKCLidFJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1630822982",
+        "1889362778",
+        "-736980623",
+        "316449800"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "706396414",
+      "hc_lt_id_nortag": "371977401",
+      "hc_lt_id_sptag": "",
+      "id_img": "LoveChunibyoOtherDelusions_775300_crop2608_-152875265",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkEGDmk8G/DCWJzkkfUCZ/ZSMd6g+6fW1jXxrEIA6ApJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkEGDmk8G/DCWJzkkfUCZ/r5VBS+Bff8u4QXqEnvhv1JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1630822982",
+        "1889362778",
+        "-736980623",
+        "316449800"
+      ]
+    },
+    {
       "hc_lt_id_alb": "311398057",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "371977401",
+      "hc_lt_id_sptag": "-1248569835",
+      "id_img": "LoveChunibyoOtherDelusions_835847_crop2608_1667616463",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbKWGSHJz/dH3PiHUzCZty6qFtMXit45QMj9ESblhu5pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbKWGSHJz/dH3PiHUzCZtyRi1dG6vfQMF8sYWdMtsQhJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1630822982",
+        "1889362778",
+        "-736980623",
+        "316449800"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-2139213873",
+        "-271320563",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "311398057",
+      "hc_lt_id_nortag": "1490020135",
       "hc_lt_id_sptag": "355398741",
       "id_img": "LoveChunibyoOtherDelusions_914896_crop2608_-115414361",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCA/Uny9Nioy4UKsaO5t10El4kNlcNbOsKCi4ypb7Q95Vy4706IhQgSYlgwrgVRHU=",
@@ -177,6 +204,10 @@
       "lt_id_alb": [
         "68811063",
         "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1889362778",
+        "316449800"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -188,68 +219,66 @@
         "1911583362",
         "635218351"
       ]
+    },
+    {
+      "hc_lt_id_alb": "311398057",
+      "hc_lt_id_nortag": "159625678",
+      "hc_lt_id_sptag": "-873772181",
+      "id_img": "LoveChunibyoOtherDelusions_569563_crop2608_-1853918680",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfllqEWViMAcRerLRzmIIjjJcA82gXHGNfWnJzYYwk55Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfllqEWViMAcRerLRzmIIj9PJBz26XV4iIsxtamlQTPpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1986181303"
+      ],
+      "list_id_nortag": [
+        "1630822982",
+        "1889362778",
+        "-303857400"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "1211227273",
+        "-326078627",
+        "1439812287",
+        "1911583362",
+        "-143528947"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-736980623",
+      "name_nortag": "Kumin Tsuyuri",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "316449800",
+      "name_nortag": "Rikka Takanashi",
+      "total_img": 52
+    },
+    {
+      "id_nortag": "1889362778",
+      "name_nortag": "Sanae Dekomori",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-303857400",
+      "name_nortag": "School Uniform",
+      "total_img": 467
+    },
+    {
+      "id_nortag": "1630822982",
+      "name_nortag": "Shinka Nibutani",
+      "total_img": 13
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "1211227273",
-      "key_sptag": "isGirlEyesYellowAnime",
-      "name_sptag": "Girls Eyes Yellow",
-      "total": 6605
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
-    {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
-    {
-      "id_sptag": "-271320563",
-      "key_sptag": "isGirlFaceMasksAnime",
-      "name_sptag": "Girls Face Masks",
-      "total": 1618
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
       "id_sptag": "635218351",
@@ -258,22 +287,28 @@
       "total": 25656
     },
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
       "id_sptag": "635632331",
       "key_sptag": "isGirlEyesPinkAnime",
       "name_sptag": "Girls Eyes Pink",
       "total": 1874
     },
     {
-      "id_sptag": "-369535327",
-      "key_sptag": "isGirlHatsAnime",
-      "name_sptag": "Girls Hats",
-      "total": 11965
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-271320563",
+      "key_sptag": "isGirlFaceMasksAnime",
+      "name_sptag": "Girls Face Masks",
+      "total": 1618
+    },
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
     },
     {
       "id_sptag": "-143534545",
@@ -282,10 +317,58 @@
       "total": 9528
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

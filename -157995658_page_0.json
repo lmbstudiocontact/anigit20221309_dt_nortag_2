@@ -4,26 +4,26 @@
   "name_nortag": "Sorane Midori no Umi",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "1061074758",
-  "hc_lt_data_img": "-978087361",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-682474350",
+  "hc_lt_alb": "-703287716",
+  "hc_lt_data_img": "892225805",
+  "hc_lt_nortag": "-1224309773",
+  "hc_lt_sptag": "-1091486010",
   "lt_alb": [
-    {
-      "id_alb": "-1001000812",
-      "name_alb": "Midori No Umi",
-      "total_img": 12
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-1001000812",
+      "name_alb": "Midori No Umi",
+      "total_img": 12
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1958448866",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1882478952",
       "hc_lt_id_sptag": "-1896444564",
       "id_img": "MidoriNoUmi_853517_crop2608_287100503",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLrPq/NJ4AI89ahYuumJDm/XgkUj+bAmMNxjkfV8KbrpVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,11 @@
       "lt_id_alb": [
         "-1001000812",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "-1395696554",
+        "-1738994889",
+        "-157995658"
       ],
       "lt_id_sptag": [
         "1371605601",
@@ -43,7 +48,7 @@
     },
     {
       "hc_lt_id_alb": "1958448866",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "737866527",
       "hc_lt_id_sptag": "-1519477900",
       "id_img": "MidoriNoUmi_853534_crop2608_1262309503",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiff/4pT19mkVCNQosoz+9bKEE8qvhoEGI5vs7zZoyd175Vy4706IhQgSYlgwrgVRHU=",
@@ -51,6 +56,10 @@
       "lt_id_alb": [
         "-1001000812",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "-1395696554",
+        "-157995658"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -64,7 +73,54 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1738994889",
+      "name_nortag": "Haina Midori no Umi",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-1395696554",
+      "name_nortag": "Rikuno Midori no Umi",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-157995658",
+      "name_nortag": "Sorane Midori no Umi",
+      "total_img": 2
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
     {
       "id_sptag": "1371605601",
       "key_sptag": "isGirlHoodieAnime",
@@ -72,16 +128,16 @@
       "total": 2667
     },
     {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
       "id_sptag": "-2139213873",
       "key_sptag": "isGirlShortHairAnime",
       "name_sptag": "Girls Short Hair",
       "total": 23769
-    },
-    {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
     },
     {
       "id_sptag": "1439812287",
@@ -96,40 +152,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
-    {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
-    },
-    {
       "id_sptag": "-1811357781",
       "key_sptag": "isGirlUniformAnime",
       "name_sptag": "Girls Uniform",
       "total": 16929
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
     }
   ]
 }

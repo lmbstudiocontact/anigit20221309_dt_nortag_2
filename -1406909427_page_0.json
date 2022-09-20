@@ -5,9 +5,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-1371268792",
-  "hc_lt_data_img": "-1169384918",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-980024777",
+  "hc_lt_data_img": "662096423",
+  "hc_lt_nortag": "1272396067",
+  "hc_lt_sptag": "455323939",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "730525290",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1068828978",
       "hc_lt_id_sptag": "-2056311882",
       "id_img": "TokyoGhoul_767152_crop2608_-2054966840",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMZ+vrVm38T9QR7ElaM+AfBK38EPb/a93unJwt7n5VrZVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,10 @@
       "lt_id_alb": [
         "68811063",
         "57904715"
+      ],
+      "list_id_nortag": [
+        "-1406909427",
+        "-277613067"
       ],
       "lt_id_sptag": [
         "-1364967268",
@@ -42,30 +46,24 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-277613067",
+      "name_nortag": "Eto Yoshimura",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-1406909427",
+      "name_nortag": "Sen Takatsuki",
+      "total_img": 1
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
+      "id_sptag": "922212480",
+      "key_sptag": "isGirlEyes2ColorAnime",
+      "name_sptag": "Girls Eyes 2 Color",
+      "total": 656
     },
     {
       "id_sptag": "635218351",
@@ -74,10 +72,28 @@
       "total": 25656
     },
     {
-      "id_sptag": "922212480",
-      "key_sptag": "isGirlEyes2ColorAnime",
-      "name_sptag": "Girls Eyes 2 Color",
-      "total": 656
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

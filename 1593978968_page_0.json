@@ -5,8 +5,8 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "51526126",
-  "hc_lt_data_img": "-55881703",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-1380373774",
+  "hc_lt_nortag": "349227153",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,36 +18,124 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "704922953",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_707693_crop2608_-2128197853",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxnmI11qICYGSBAL+yccdPWZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxcVWMPA6cH16gu/QGDFyVyJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "1771191171",
+        "1433608519",
+        "-195763714",
+        "-404028965",
+        "428715970",
+        "633717388",
+        "-2127174068",
+        "1810342875",
+        "1015030999",
+        "1593978968"
       ]
     },
     {
       "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_707693_crop2608_289549538",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSdubL+kRFoazVGyWMEa5axVnZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSduNy1uFvmn/p1psBa1qyVsu5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "704922953",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_707693_crop2608_569621327",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqIdvVDelpzhdNN0qaUcJ49+6XPeiWKyuxn3kw3y2OzZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqIdvVDelpzhdNN0qaUcJ4eKdFo2gt3r8pggs5wYn4kJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "1771191171",
+        "1433608519",
+        "-195763714",
+        "-404028965",
+        "428715970",
+        "633717388",
+        "-2127174068",
+        "1810342875",
+        "1015030999",
+        "1593978968"
       ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "704922953",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_707693_crop2608_289549538",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSdubL+kRFoazVGyWMEa5axVnZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSduNy1uFvmn/p1psBa1qyVsu5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "1771191171",
+        "1433608519",
+        "-195763714",
+        "-404028965",
+        "428715970",
+        "633717388",
+        "-2127174068",
+        "1810342875",
+        "1015030999",
+        "1593978968"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "633717388",
+      "name_nortag": "Kamina Tengen Toppa Gurren Lagann",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "-195763714",
+      "name_nortag": "Mako Mankanshoku",
+      "total_img": 17
+    },
+    {
+      "id_nortag": "1015030999",
+      "name_nortag": "Nia Teppelin",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "1771191171",
+      "name_nortag": "Nonon Jakuzure",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "1593978968",
+      "name_nortag": "Panty Anarchy",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-2127174068",
+      "name_nortag": "Ryuko Matoi",
+      "total_img": 49
+    },
+    {
+      "id_nortag": "1810342875",
+      "name_nortag": "Satsuki Kiryuin",
+      "total_img": 28
+    },
+    {
+      "id_nortag": "1433608519",
+      "name_nortag": "Senketsu Kill la Kill",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-404028965",
+      "name_nortag": "Simon Tengen Toppa Gurren Lagann",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "428715970",
+      "name_nortag": "Stocking Anarchy",
+      "total_img": 8
     }
   ]
 }

@@ -5,8 +5,8 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "1732206040",
-  "hc_lt_data_img": "-220472658",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-8985458",
+  "hc_lt_nortag": "579805059",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,25 +18,136 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-2133017521",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "CodeGeass_750400_crop2608_-1614291715",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7lVXf8l6A6eCvamcaAZSvBQOTFFPLi6aEQPD+PNSKt5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7lVXf8l6A6eCvamcaAZSvugfIEY7hB1eA8ZazeWOM/ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-429743888"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-2133017521",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1256181821",
       "hc_lt_id_sptag": "",
       "id_img": "CodeGeass_750400_crop2608_-258984011",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemg/aKD2pwBrzTjNhdWMp9u0cvM8vJgmqsMsqzWXChG5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemg/aKD2pwBrzTjNhdWMp9B+WvplnsV/RwYzLFrDIXhpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-429743888"
+      ],
+      "list_id_nortag": [
+        "284377290",
+        "1207199627",
+        "-285011970",
+        "1991467167",
+        "-222169936",
+        "866657367",
+        "-1869268943",
+        "1691143650",
+        "-36125624",
+        "337038803",
+        "-1068062113",
+        "260051689",
+        "232190638",
+        "-633489990",
+        "-496878087"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-2133017521",
+      "hc_lt_id_nortag": "1256181821",
+      "hc_lt_id_sptag": "",
+      "id_img": "CodeGeass_750400_crop2608_-1614291715",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7lVXf8l6A6eCvamcaAZSvBQOTFFPLi6aEQPD+PNSKt5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7lVXf8l6A6eCvamcaAZSvugfIEY7hB1eA8ZazeWOM/ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-429743888"
+      ],
+      "list_id_nortag": [
+        "284377290",
+        "1207199627",
+        "-285011970",
+        "1991467167",
+        "-222169936",
+        "866657367",
+        "-1869268943",
+        "1691143650",
+        "-36125624",
+        "337038803",
+        "-1068062113",
+        "260051689",
+        "232190638",
+        "-633489990",
+        "-496878087"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-222169936",
+      "name_nortag": "CC Code Geass",
+      "total_img": 54
+    },
+    {
+      "id_nortag": "-633489990",
+      "name_nortag": "Cecile Croomy",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "337038803",
+      "name_nortag": "Euphemia Li Britannia",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "-496878087",
+      "name_nortag": "Jeremiah Gottwald",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "1991467167",
+      "name_nortag": "Kaguya Sumeragi",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-285011970",
+      "name_nortag": "Kallen Kozuki",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "1207199627",
+      "name_nortag": "Lelouch Lamperouge",
+      "total_img": 68
+    },
+    {
+      "id_nortag": "866657367",
+      "name_nortag": "Lloyd Asplund",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "232190638",
+      "name_nortag": "Milly Ashford",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "284377290",
+      "name_nortag": "Nunnally Lamperouge",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-36125624",
+      "name_nortag": "Rivalz Cardemonde",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "260051689",
+      "name_nortag": "Rolo Lamperouge",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "1691143650",
+      "name_nortag": "Sayoko Shinozaki",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-1869268943",
+      "name_nortag": "Shirley Fenette",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-1068062113",
+      "name_nortag": "Suzaku Kururugi",
+      "total_img": 28
     }
   ]
 }

@@ -4,10 +4,10 @@
   "name_nortag": "Sorey Zestiria",
   "total_img": 9,
   "total_page": 0,
-  "hc_lt_alb": "-648295539",
-  "hc_lt_data_img": "849063437",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1775913105",
+  "hc_lt_alb": "-385408755",
+  "hc_lt_data_img": "590340900",
+  "hc_lt_nortag": "-1724647421",
+  "hc_lt_sptag": "-1918334843",
   "lt_alb": [
     {
       "id_alb": "66988",
@@ -15,9 +15,9 @@
       "total_img": 8592
     },
     {
-      "id_alb": "-1715195924",
-      "name_alb": "Tales of Zestiria the X",
-      "total_img": 88
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
     },
     {
       "id_alb": "68811063",
@@ -25,82 +25,48 @@
       "total_img": 68557
     },
     {
-      "id_alb": "2024260576",
-      "name_alb": "Couple",
-      "total_img": 2059
+      "id_alb": "-1715195924",
+      "name_alb": "Tales of Zestiria the X",
+      "total_img": 88
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "1422711277",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "-1591224316",
+      "hc_lt_id_nortag": "1244411132",
       "hc_lt_id_sptag": "",
-      "id_img": "TalesofZestiriatheX_715472_crop2608_74101965",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqOUS+iRYEiB+uq71VSPmy/hxqZOQPWkR9Z4YBQu7wNJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqOUS+iRYEiB+uq71VSPmyqRT0h0kh6hFmiMi1BlKyS5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "TalesofZestiriatheX_972695_crop2608_-905921481",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefKgYfsln/YDMCtZ54pBH0FMwz9Lo7860ta0kpQ17/pZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefKgYfsln/YDMCtZ54pBH0BZ2NQbKfJC0325hmGj3KHJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1715195924",
+        "2024260576"
+      ],
+      "list_id_nortag": [
+        "-65198234",
+        "-14466141"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1422711277",
+      "hc_lt_id_nortag": "1222204473",
+      "hc_lt_id_sptag": "",
+      "id_img": "TalesofZestiriatheX_720097_crop2608_1023476466",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjJHIXc+oxi7gM/27EEjPt1OtanI8TYaJ6acOpDkOut5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjJHIXc+oxi7gM/27EEjPtEE0aABExpIcZ9MT2ym0z9pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "66988",
         "-1715195924"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-174887580",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "TalesofZestiriatheX_716858_crop2608_-1814329205",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidntSeJROx64EEMl7vbY/3GmJW//WPiuQ3uACn1V8EU5JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidntSeJROx64EEMl7vbY/3GzXS8A+15IPCeudw0aSAA8JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1715195924"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-174887580",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "TalesofZestiriatheX_716858_crop2608_1371037850",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiZljL5So3H3sUStoRkJhRs6AyWqfpiqHv3TLj8taxBZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiZljL5So3H3sUStoRkJhRlXuOC68hCoAs537yPOusV5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1715195924"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-174887580",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "TalesofZestiriatheX_716858_crop2608_1671745720",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAVjTWbskqpH+CaNX3QtnMA2AP3ACa5jMz0I5SHhqGFZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAVjTWbskqpH+CaNX3QtnMvSS0YYKpcc5+SadAv8BWUJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1715195924"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-174887580",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "TalesofZestiriatheX_718271_crop2608_1458648295",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewlwoF6bdJX/AsSoYRcPpF4i4uJJE7pInWErRErHeEPJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewlwoF6bdJX/AsSoYRcPpFtymOssiWmDEr0F4l7jtIq5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1715195924"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-174887580",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "TalesofZestiriatheX_718271_crop2608_2046897274",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVquO1BDN80tIuPK7lMFUZH94hZ6L3IGumHeNNXhTIGJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVquO1BDN80tIuPK7lMFUZOtBF7KjhI4tV8rV9qj4455Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1715195924"
+      ],
+      "list_id_nortag": [
+        "1273870476",
+        "-65198234",
+        "-14466141"
       ]
     },
     {
       "hc_lt_id_alb": "-569885937",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1222204473",
       "hc_lt_id_sptag": "-558292295",
       "id_img": "TalesofZestiriatheX_718276_crop2608_406472748",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieq3b/xzfrb5GyFNZVc+dwo82mjPPd5+M0Mdm/VaBu7KJVy4706IhQgSYlgwrgVRHU=",
@@ -108,6 +74,11 @@
       "lt_id_alb": [
         "68811063",
         "-1715195924"
+      ],
+      "list_id_nortag": [
+        "1273870476",
+        "-65198234",
+        "-14466141"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -119,36 +90,151 @@
       ]
     },
     {
-      "hc_lt_id_alb": "1422711277",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "-174887580",
+      "hc_lt_id_nortag": "785709895",
       "hc_lt_id_sptag": "",
-      "id_img": "TalesofZestiriatheX_720097_crop2608_1023476466",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjJHIXc+oxi7gM/27EEjPt1OtanI8TYaJ6acOpDkOut5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjJHIXc+oxi7gM/27EEjPtEE0aABExpIcZ9MT2ym0z9pVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "TalesofZestiriatheX_716858_crop2608_1371037850",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiZljL5So3H3sUStoRkJhRs6AyWqfpiqHv3TLj8taxBZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiZljL5So3H3sUStoRkJhRlXuOC68hCoAs537yPOusV5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "66988",
         "-1715195924"
+      ],
+      "list_id_nortag": [
+        "1273870476",
+        "-1262976946",
+        "1205378733",
+        "-1943243109",
+        "-14466141"
       ]
     },
     {
-      "hc_lt_id_alb": "-1591224316",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "-174887580",
+      "hc_lt_id_nortag": "1815978142",
       "hc_lt_id_sptag": "",
-      "id_img": "TalesofZestiriatheX_972695_crop2608_-905921481",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefKgYfsln/YDMCtZ54pBH0FMwz9Lo7860ta0kpQ17/pZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefKgYfsln/YDMCtZ54pBH0BZ2NQbKfJC0325hmGj3KHJVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "TalesofZestiriatheX_718271_crop2608_1458648295",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewlwoF6bdJX/AsSoYRcPpF4i4uJJE7pInWErRErHeEPJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewlwoF6bdJX/AsSoYRcPpFtymOssiWmDEr0F4l7jtIq5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "-1715195924",
-        "2024260576"
+        "-1715195924"
+      ],
+      "list_id_nortag": [
+        "1273870476",
+        "-1262976946",
+        "1205378733",
+        "-1943243109",
+        "-65198234",
+        "-14466141"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-174887580",
+      "hc_lt_id_nortag": "785709895",
+      "hc_lt_id_sptag": "",
+      "id_img": "TalesofZestiriatheX_716858_crop2608_1671745720",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAVjTWbskqpH+CaNX3QtnMA2AP3ACa5jMz0I5SHhqGFZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAVjTWbskqpH+CaNX3QtnMvSS0YYKpcc5+SadAv8BWUJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1715195924"
+      ],
+      "list_id_nortag": [
+        "1273870476",
+        "-1262976946",
+        "1205378733",
+        "-1943243109",
+        "-14466141"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1422711277",
+      "hc_lt_id_nortag": "213082921",
+      "hc_lt_id_sptag": "",
+      "id_img": "TalesofZestiriatheX_715472_crop2608_74101965",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqOUS+iRYEiB+uq71VSPmy/hxqZOQPWkR9Z4YBQu7wNJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqOUS+iRYEiB+uq71VSPmyqRT0h0kh6hFmiMi1BlKyS5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-1715195924"
+      ],
+      "list_id_nortag": [
+        "-14466141"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-174887580",
+      "hc_lt_id_nortag": "785709895",
+      "hc_lt_id_sptag": "",
+      "id_img": "TalesofZestiriatheX_716858_crop2608_-1814329205",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidntSeJROx64EEMl7vbY/3GmJW//WPiuQ3uACn1V8EU5JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidntSeJROx64EEMl7vbY/3GzXS8A+15IPCeudw0aSAA8JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1715195924"
+      ],
+      "list_id_nortag": [
+        "1273870476",
+        "-1262976946",
+        "1205378733",
+        "-1943243109",
+        "-14466141"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-174887580",
+      "hc_lt_id_nortag": "1815978142",
+      "hc_lt_id_sptag": "",
+      "id_img": "TalesofZestiriatheX_718271_crop2608_2046897274",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVquO1BDN80tIuPK7lMFUZH94hZ6L3IGumHeNNXhTIGJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVquO1BDN80tIuPK7lMFUZOtBF7KjhI4tV8rV9qj4455Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1715195924"
+      ],
+      "list_id_nortag": [
+        "1273870476",
+        "-1262976946",
+        "1205378733",
+        "-1943243109",
+        "-65198234",
+        "-14466141"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1273870476",
+      "name_nortag": "Alisha Diphda",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "1205378733",
+      "name_nortag": "Dezel Zestiria",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-1943243109",
+      "name_nortag": "Edna Zestiria",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-1262976946",
+      "name_nortag": "Lailah Zestiria",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-65198234",
+      "name_nortag": "Mikleo Zestiria",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-14466141",
+      "name_nortag": "Sorey Zestiria",
+      "total_img": 9
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "154003721",
@@ -175,10 +261,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

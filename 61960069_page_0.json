@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "648960970",
-  "hc_lt_data_img": "-1564814922",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "88313164",
+  "hc_lt_nortag": "-746304635",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,14 +18,72 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1463434693",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1815451517",
       "hc_lt_id_sptag": "",
       "id_img": "OnePiece_165011_crop2608_-213592823",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBDLIYoo/6KlNx9SkqcqeRQMe1D83i04PqgAAWSuhXV5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBDLIYoo/6KlNx9SkqcqeRVTOvqz8DRFqnTUDT7FRNWZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "2112395380"
+      ],
+      "list_id_nortag": [
+        "2079074963",
+        "-1783851087",
+        "1383698700",
+        "570659319",
+        "1633518811",
+        "1076426309",
+        "-1643022489",
+        "61960069",
+        "-1866441661"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1633518811",
+      "name_nortag": "Franky One Piece",
+      "total_img": 45
+    },
+    {
+      "id_nortag": "-1643022489",
+      "name_nortag": "Monkey D Luffy",
+      "total_img": 156
+    },
+    {
+      "id_nortag": "-1866441661",
+      "name_nortag": "Nami One Piece",
+      "total_img": 67
+    },
+    {
+      "id_nortag": "-1783851087",
+      "name_nortag": "Nico Robin",
+      "total_img": 51
+    },
+    {
+      "id_nortag": "61960069",
+      "name_nortag": "Rob Lucci",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "1383698700",
+      "name_nortag": "Roronoa Zoro",
+      "total_img": 75
+    },
+    {
+      "id_nortag": "2079074963",
+      "name_nortag": "Sanji One Piece",
+      "total_img": 74
+    },
+    {
+      "id_nortag": "570659319",
+      "name_nortag": "Tony Tony Chopper",
+      "total_img": 59
+    },
+    {
+      "id_nortag": "1076426309",
+      "name_nortag": "Usopp One Piece",
+      "total_img": 50
     }
   ]
 }

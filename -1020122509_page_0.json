@@ -5,8 +5,8 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "1013844937",
-  "hc_lt_data_img": "1451126387",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1059465094",
+  "hc_lt_nortag": "-364665157",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,47 +18,115 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-654165240",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "AttackOnTitan_647052_crop2608_-1695256909",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvz4nzbg8Ht0akDuCvzfv9QwBkiJ3ysEdKmr6+iPzDq5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvz4nzbg8Ht0akDuCvzfv9TX0T2r0FK03zNbYmasIqTJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1668009539"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-654165240",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "444435622",
       "hc_lt_id_sptag": "",
       "id_img": "AttackOnTitan_647052_crop2608_136105184",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidN+9Dt3UZNjehoSoQK6BNhomTKxBdIJDjW3jpA737D2ZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidN+9Dt3UZNjehoSoQK6BNhScTjgRL9lc0GJ81QVjOk6JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1668009539"
+      ],
+      "list_id_nortag": [
+        "-1734453162",
+        "449059827",
+        "907470688",
+        "2145454115",
+        "1374333188",
+        "-1020122509",
+        "-759650044"
       ]
     },
     {
       "hc_lt_id_alb": "-654165240",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "AttackOnTitan_647052_crop2608_767311730",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidS3/6/td+UF4fMPmzOhZVBZEHXcFfEuYhsR1DxNcbYm5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidS3/6/td+UF4fMPmzOhZVBeeXDmC8csL29bbjL2/yaVJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1668009539"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-654165240",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-652644458",
       "hc_lt_id_sptag": "",
       "id_img": "AttackOnTitan_786311_crop2608_1940979818",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifQJv2dmspt8m5DrBy4pq8nX/7RuvXu+PE2FuvrHSdNS5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifQJv2dmspt8m5DrBy4pq8nkRVJWwY4WU+WycFxKX/9d5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1668009539"
+      ],
+      "list_id_nortag": [
+        "2145454115",
+        "-1020122509"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-654165240",
+      "hc_lt_id_nortag": "444435622",
+      "hc_lt_id_sptag": "",
+      "id_img": "AttackOnTitan_647052_crop2608_767311730",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidS3/6/td+UF4fMPmzOhZVBZEHXcFfEuYhsR1DxNcbYm5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidS3/6/td+UF4fMPmzOhZVBeeXDmC8csL29bbjL2/yaVJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1668009539"
+      ],
+      "list_id_nortag": [
+        "-1734453162",
+        "449059827",
+        "907470688",
+        "2145454115",
+        "1374333188",
+        "-1020122509",
+        "-759650044"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-654165240",
+      "hc_lt_id_nortag": "444435622",
+      "hc_lt_id_sptag": "",
+      "id_img": "AttackOnTitan_647052_crop2608_-1695256909",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvz4nzbg8Ht0akDuCvzfv9QwBkiJ3ysEdKmr6+iPzDq5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvz4nzbg8Ht0akDuCvzfv9TX0T2r0FK03zNbYmasIqTJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1668009539"
+      ],
+      "list_id_nortag": [
+        "-1734453162",
+        "449059827",
+        "907470688",
+        "2145454115",
+        "1374333188",
+        "-1020122509",
+        "-759650044"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1734453162",
+      "name_nortag": "Annie Leonhart",
+      "total_img": 85
+    },
+    {
+      "id_nortag": "2145454115",
+      "name_nortag": "Hange Zoe",
+      "total_img": 38
+    },
+    {
+      "id_nortag": "449059827",
+      "name_nortag": "Historia Reiss",
+      "total_img": 98
+    },
+    {
+      "id_nortag": "-759650044",
+      "name_nortag": "Mikasa Ackerman",
+      "total_img": 326
+    },
+    {
+      "id_nortag": "-1020122509",
+      "name_nortag": "Rico Brzenska",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "1374333188",
+      "name_nortag": "Sasha Blouse",
+      "total_img": 101
+    },
+    {
+      "id_nortag": "907470688",
+      "name_nortag": "Ymir Attack on Titan",
+      "total_img": 60
     }
   ]
 }

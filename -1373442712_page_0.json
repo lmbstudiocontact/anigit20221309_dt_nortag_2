@@ -4,20 +4,20 @@
   "name_nortag": "Nelliel Tu Odelschwanck",
   "total_img": 5,
   "total_page": 0,
-  "hc_lt_alb": "1400600786",
-  "hc_lt_data_img": "-460701264",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1191912176",
+  "hc_lt_alb": "661855714",
+  "hc_lt_data_img": "-548841979",
+  "hc_lt_nortag": "-1620140937",
+  "hc_lt_sptag": "1945535574",
   "lt_alb": [
-    {
-      "id_alb": "2024260576",
-      "name_alb": "Couple",
-      "total_img": 2059
-    },
     {
       "id_alb": "1992369515",
       "name_alb": "Bleach",
       "total_img": 460
+    },
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
     },
     {
       "id_alb": "68811063",
@@ -27,39 +27,8 @@
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "988170621",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Bleach_120109_crop2608_1712571873",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifc++cxMD4iKVkRnvwzK27CGiNWH2FElgf9j76DdBlUy5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifc++cxMD4iKVkRnvwzK27CXp4Odk2cb5t1NIqpn+rf0ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "2024260576",
-        "1992369515"
-      ]
-    },
-    {
       "hc_lt_id_alb": "2113245038",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "2045101821",
-      "id_img": "Bleach_160456_crop2608_952147554",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6OX+CALkDjtZXUfQlQ7hFozlcEaDrOw8UXksUnOP5EJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6OX+CALkDjtZXUfQlQ7hFcFk1mfhvr8jofDmS9x4sp5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "1992369515"
-      ],
-      "lt_id_sptag": [
-        "-326078627",
-        "-271320563",
-        "-143534545",
-        "1911583362",
-        "635218351"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "2113245038",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1361905744",
       "hc_lt_id_sptag": "2045101821",
       "id_img": "Bleach_160460_crop2608_1782322268",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1/f5KFi6g/uTSNt8MueliLBHPKekVqaL1otDKS/zKoZVy4706IhQgSYlgwrgVRHU=",
@@ -68,6 +37,31 @@
         "68811063",
         "1992369515"
       ],
+      "list_id_nortag": [
+        "-1373442712"
+      ],
+      "lt_id_sptag": [
+        "-326078627",
+        "-271320563",
+        "-143534545",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "2113245038",
+      "hc_lt_id_nortag": "-1361905744",
+      "hc_lt_id_sptag": "2045101821",
+      "id_img": "Bleach_160456_crop2608_952147554",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6OX+CALkDjtZXUfQlQ7hFozlcEaDrOw8UXksUnOP5EJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6OX+CALkDjtZXUfQlQ7hFcFk1mfhvr8jofDmS9x4sp5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1992369515"
+      ],
+      "list_id_nortag": [
+        "-1373442712"
+      ],
       "lt_id_sptag": [
         "-326078627",
         "-271320563",
@@ -78,33 +72,80 @@
     },
     {
       "hc_lt_id_alb": "-1786723901",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "788717916",
       "hc_lt_id_sptag": "",
       "id_img": "Bleach_261988_crop2608_-174733166",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieccrirEXrW7zGhhTbKFYGpp12hnJkVE0nMsTkU+bYIOpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieccrirEXrW7zGhhTbKFYGp7zMunwECWm1omfRasK+QW5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1992369515"
+      ],
+      "list_id_nortag": [
+        "-958187632",
+        "2005894701",
+        "-1373442712"
       ]
     },
     {
       "hc_lt_id_alb": "-1786723901",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1989524536",
       "hc_lt_id_sptag": "",
       "id_img": "Bleach_579140_crop2608_-1002240804",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexHzvPASC2I+gyrxuch6x7G08lLrYx5a58MWMSAjsv3ZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexHzvPASC2I+gyrxuch6x72YXWS4+Vt1taGbh7vXSY4pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1992369515"
+      ],
+      "list_id_nortag": [
+        "-1373442712",
+        "2076731033"
       ]
+    },
+    {
+      "hc_lt_id_alb": "988170621",
+      "hc_lt_id_nortag": "764312478",
+      "hc_lt_id_sptag": "",
+      "id_img": "Bleach_120109_crop2608_1712571873",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifc++cxMD4iKVkRnvwzK27CGiNWH2FElgf9j76DdBlUy5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifc++cxMD4iKVkRnvwzK27CXp4Odk2cb5t1NIqpn+rf0ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2024260576",
+        "1992369515"
+      ],
+      "list_id_nortag": [
+        "-958187632",
+        "-1373442712"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-958187632",
+      "name_nortag": "Ichigo Kurosaki",
+      "total_img": 201
+    },
+    {
+      "id_nortag": "-1373442712",
+      "name_nortag": "Nelliel Tu Odelschwanck",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "2076731033",
+      "name_nortag": "Orihime Inoue",
+      "total_img": 33
+    },
+    {
+      "id_nortag": "2005894701",
+      "name_nortag": "Ulquiorra Cifer",
+      "total_img": 34
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "-271320563",
@@ -119,16 +160,16 @@
       "total": 9528
     },
     {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
       "id_sptag": "1911583362",
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
     }
   ]
 }

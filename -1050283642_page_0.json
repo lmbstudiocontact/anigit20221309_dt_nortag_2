@@ -4,26 +4,26 @@
   "name_nortag": "Shuten Douji",
   "total_img": 3,
   "total_page": 0,
-  "hc_lt_alb": "-683746010",
-  "hc_lt_data_img": "1525697494",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1818064321",
+  "hc_lt_alb": "1666867644",
+  "hc_lt_data_img": "-1335156222",
+  "hc_lt_nortag": "-1363102750",
+  "hc_lt_sptag": "763400657",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "224902894",
       "name_alb": "FateGrand Order",
       "total_img": 646
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-2141209363",
       "hc_lt_id_sptag": "1741293238",
       "id_img": "FateGrandOrder_914640_crop2608_2015476025",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5DzSkeSqCrjnA+OwY8Ws7hoj4OTNkMQj4dff8TyRRlZVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,9 @@
       "lt_id_alb": [
         "68811063",
         "224902894"
+      ],
+      "list_id_nortag": [
+        "-1050283642"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -46,7 +49,7 @@
     },
     {
       "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-70964527",
       "hc_lt_id_sptag": "1077864461",
       "id_img": "FateGrandOrder_915462_crop2608_-1234745623",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwoqcHX2aXOfjbkNqI7AnPm5fWFGiAoMr4IYCz4eQPkJVy4706IhQgSYlgwrgVRHU=",
@@ -54,6 +57,12 @@
       "lt_id_alb": [
         "68811063",
         "224902894"
+      ],
+      "list_id_nortag": [
+        "-1050283642",
+        "-2087776008",
+        "-1504393775",
+        "1504130335"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -68,7 +77,7 @@
     },
     {
       "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1084414234",
       "hc_lt_id_sptag": "-1958530460",
       "id_img": "FateGrandOrder_967802_crop2608_-1729207965",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifoTdXD15qmGJw6SYUWDmWA9I/ltgvmDRZE/Jg139Ev+pVy4706IhQgSYlgwrgVRHU=",
@@ -76,6 +85,10 @@
       "lt_id_alb": [
         "68811063",
         "224902894"
+      ],
+      "list_id_nortag": [
+        "-1363022306",
+        "-1050283642"
       ],
       "lt_id_sptag": [
         "-564636969",
@@ -93,31 +106,34 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-2087776008",
+      "name_nortag": "Assassin Fatestay night",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-1363022306",
+      "name_nortag": "Ibaraki Douji",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "1504130335",
+      "name_nortag": "Miyamoto Musashi",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-1050283642",
+      "name_nortag": "Shuten Douji",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-1504393775",
+      "name_nortag": "Tomoe Gozen FateGrand Order",
+      "total_img": 17
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "1429721863",
-      "key_sptag": "isGirlHornsAnime",
-      "name_sptag": "Girls Horns",
-      "total": 2031
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
@@ -125,16 +141,10 @@
       "total": 31431
     },
     {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
+      "id_sptag": "410439701",
+      "key_sptag": "isGirlEarsNekoAnime",
+      "name_sptag": "Girls Ears Neko",
+      "total": 7031
     },
     {
       "id_sptag": "-1783086774",
@@ -143,10 +153,10 @@
       "total": 5810
     },
     {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "-1364967268",
@@ -155,10 +165,52 @@
       "total": 12697
     },
     {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
       "id_sptag": "-143380300",
       "key_sptag": "isGirlHairGreyAnime",
       "name_sptag": "Girls Hair Grey",
       "total": 9239
+    },
+    {
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "1429721863",
+      "key_sptag": "isGirlHornsAnime",
+      "name_sptag": "Girls Horns",
+      "total": 2031
     },
     {
       "id_sptag": "-326078627",
@@ -173,46 +225,34 @@
       "total": 3202
     },
     {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
       "id_sptag": "891390002",
       "key_sptag": "isGirlStudentAnime",
       "name_sptag": "Girls Student",
       "total": 16308
     },
     {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     },
     {
-      "id_sptag": "1211227273",
-      "key_sptag": "isGirlEyesYellowAnime",
-      "name_sptag": "Girls Eyes Yellow",
-      "total": 6605
-    },
-    {
-      "id_sptag": "71899412",
-      "key_sptag": "isGirlHairVioletAnime",
-      "name_sptag": "Girls Hair Violet",
-      "total": 2650
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
-    },
-    {
-      "id_sptag": "410439701",
-      "key_sptag": "isGirlEarsNekoAnime",
-      "name_sptag": "Girls Ears Neko",
-      "total": 7031
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

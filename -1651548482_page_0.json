@@ -5,9 +5,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-978442680",
-  "hc_lt_data_img": "2106002739",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-759923138",
+  "hc_lt_data_img": "266617564",
+  "hc_lt_nortag": "1252362330",
+  "hc_lt_sptag": "1309262900",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "977994756",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1108862984",
       "hc_lt_id_sptag": "564553319",
       "id_img": "PuellaMagiMadokaMagica_360186_crop2608_1090680499",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifICHpfzsbfg1U10ky1TmpfnvmpjqNo0SMnoBLoRDy2KJVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,16 @@
       "lt_id_alb": [
         "68811063",
         "203261332"
+      ],
+      "list_id_nortag": [
+        "874521772",
+        "-1651548482",
+        "172796398",
+        "-792566600",
+        "126849301",
+        "-333588928",
+        "-1070871742",
+        "1274441884"
       ],
       "lt_id_sptag": [
         "-564636969",
@@ -45,24 +55,54 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-333588928",
+      "name_nortag": "Charlotte Puella Magi Madoka Magica",
+      "total_img": 29
+    },
+    {
+      "id_nortag": "126849301",
+      "name_nortag": "Homura Akemi",
+      "total_img": 230
+    },
+    {
+      "id_nortag": "-1070871742",
+      "name_nortag": "Kyoko Sakura",
+      "total_img": 176
+    },
+    {
+      "id_nortag": "1274441884",
+      "name_nortag": "Kyuubey Puella Magi Madoka Magica",
+      "total_img": 43
+    },
+    {
+      "id_nortag": "874521772",
+      "name_nortag": "Madoka Kaname",
+      "total_img": 232
+    },
+    {
+      "id_nortag": "-792566600",
+      "name_nortag": "Mami Tomoe",
+      "total_img": 179
+    },
+    {
+      "id_nortag": "-1651548482",
+      "name_nortag": "Oktavia von Seckendorff",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "172796398",
+      "name_nortag": "Sayaka Miki",
+      "total_img": 179
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-564636969",
-      "key_sptag": "isGirlSharpCanineToothAnime",
-      "name_sptag": "Girls Sharp Canine Tooth",
-      "total": 3202
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
-    },
-    {
-      "id_sptag": "1211227273",
-      "key_sptag": "isGirlEyesYellowAnime",
-      "name_sptag": "Girls Eyes Yellow",
-      "total": 6605
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "-1782893951",
@@ -71,10 +111,34 @@
       "total": 9376
     },
     {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
       "id_sptag": "-143534545",
       "key_sptag": "isGirlHairBlueAnime",
       "name_sptag": "Girls Hair Blue",
       "total": 9528
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
+      "id_sptag": "-564636969",
+      "key_sptag": "isGirlSharpCanineToothAnime",
+      "name_sptag": "Girls Sharp Canine Tooth",
+      "total": 3202
     },
     {
       "id_sptag": "1439812287",
@@ -87,18 +151,6 @@
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
     }
   ]
 }

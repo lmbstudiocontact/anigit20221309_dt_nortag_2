@@ -4,38 +4,26 @@
   "name_nortag": "Smoking",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "-1305435413",
-  "hc_lt_data_img": "451245245",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "-2046064489",
+  "hc_lt_data_img": "-1572201814",
+  "hc_lt_nortag": "-1352827296",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "2112395380",
-      "name_alb": "One Piece",
-      "total_img": 283
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "2112395380",
+      "name_alb": "One Piece",
+      "total_img": 283
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1929700190",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "OnePiece_721547_crop2608_1800026347",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSGpBhi2OEnIODE6go9LYE5dFie+2gkSUoJcQ37oy50pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSGpBhi2OEnIODE6go9LYEa8rbshfc7c1kWrcua7EgEJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "2112395380",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1929700190",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "462529546",
       "hc_lt_id_sptag": "",
       "id_img": "OnePiece_932963_crop2608_1797764167",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUklcICrx02ieXALDTSUiSylem/mkn7I1EdbZ/sVzGRJVy4706IhQgSYlgwrgVRHU=",
@@ -43,7 +31,74 @@
       "lt_id_alb": [
         "2112395380",
         "66988"
+      ],
+      "list_id_nortag": [
+        "65106066",
+        "1655301527",
+        "-420225460"
       ]
+    },
+    {
+      "hc_lt_id_alb": "1929700190",
+      "hc_lt_id_nortag": "1475563582",
+      "hc_lt_id_sptag": "",
+      "id_img": "OnePiece_721547_crop2608_1800026347",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSGpBhi2OEnIODE6go9LYE5dFie+2gkSUoJcQ37oy50pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSGpBhi2OEnIODE6go9LYEa8rbshfc7c1kWrcua7EgEJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2112395380",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "2079074963",
+        "1992679946",
+        "65070753",
+        "-420225460",
+        "2189910",
+        "1575125746"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
+    },
+    {
+      "id_nortag": "65070753",
+      "name_nortag": "Chain",
+      "total_img": 22
+    },
+    {
+      "id_nortag": "65106066",
+      "name_nortag": "Cigar",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "1575125746",
+      "name_nortag": "Cigarette",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "2189910",
+      "name_nortag": "Fire",
+      "total_img": 24
+    },
+    {
+      "id_nortag": "2079074963",
+      "name_nortag": "Sanji One Piece",
+      "total_img": 74
+    },
+    {
+      "id_nortag": "1655301527",
+      "name_nortag": "Smoker One Piece",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-420225460",
+      "name_nortag": "Smoking",
+      "total_img": 2
     }
   ]
 }

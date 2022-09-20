@@ -4,26 +4,26 @@
   "name_nortag": "Prinz Eugen Azur Lane",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "103013157",
-  "hc_lt_data_img": "-640229320",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-191783756",
+  "hc_lt_alb": "286598045",
+  "hc_lt_data_img": "1492751478",
+  "hc_lt_nortag": "466760621",
+  "hc_lt_sptag": "1428039098",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "408425270",
       "name_alb": "Azur Lane",
       "total_img": 185
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1854286778",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "645467407",
       "hc_lt_id_sptag": "444752294",
       "id_img": "AzurLane_860569_crop2608_1574753589",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezfJ9Q5jiUmyN5e7QYCFpFMUJ8dG6O1peIVpSsqISgsZVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,10 @@
       "lt_id_alb": [
         "68811063",
         "408425270"
+      ],
+      "list_id_nortag": [
+        "1019961086",
+        "-1732729847"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -46,7 +50,7 @@
     },
     {
       "hc_lt_id_alb": "1854286778",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "813650574",
       "hc_lt_id_sptag": "1074282682",
       "id_img": "AzurLane_877520_crop2608_-595185142",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2C2LyqfdCbDfnyB0YZRtpZXeJfoQaSCK4GpCq7qrEypVy4706IhQgSYlgwrgVRHU=",
@@ -54,6 +58,9 @@
       "lt_id_alb": [
         "68811063",
         "408425270"
+      ],
+      "list_id_nortag": [
+        "-1732729847"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -66,7 +73,37 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1019961086",
+      "name_nortag": "Bilan Hangxian",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "-1732729847",
+      "name_nortag": "Prinz Eugen Azur Lane",
+      "total_img": 2
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
     {
       "id_sptag": "-14067806",
       "key_sptag": "isGirlHairSilverAnime",
@@ -80,28 +117,10 @@
       "total": 8666
     },
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
       "id_sptag": "154003721",
       "key_sptag": "isGirlHairYellowAnime",
       "name_sptag": "Girls Hair Yellow",
       "total": 12651
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
-    },
-    {
-      "id_sptag": "-1782893951",
-      "key_sptag": "isGirlEyesBrownAnime",
-      "name_sptag": "Girls Eyes Brown",
-      "total": 9376
     },
     {
       "id_sptag": "-326078627",
@@ -110,22 +129,22 @@
       "total": 47407
     },
     {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
       "id_sptag": "1911583362",
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

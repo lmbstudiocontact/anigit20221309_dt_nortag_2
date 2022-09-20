@@ -4,26 +4,26 @@
   "name_nortag": "Pirate",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "-651511647",
-  "hc_lt_data_img": "-928090613",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "1371949473",
+  "hc_lt_data_img": "640819051",
+  "hc_lt_nortag": "-1670634073",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "505986750",
-      "name_alb": "Unrefined",
-      "total_img": 824
-    },
     {
       "id_alb": "2112395380",
       "name_alb": "One Piece",
       "total_img": 283
+    },
+    {
+      "id_alb": "505986750",
+      "name_alb": "Unrefined",
+      "total_img": 824
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1269652920",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1331675559",
       "hc_lt_id_sptag": "",
       "id_img": "OnePiece_211151_crop2608_-1690529884",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSYXfB+LygXQuFMMh2Omvsqn3gqhtGHWYp4zB1t6yO1ZVy4706IhQgSYlgwrgVRHU=",
@@ -31,11 +31,15 @@
       "lt_id_alb": [
         "505986750",
         "2112395380"
+      ],
+      "list_id_nortag": [
+        "2192268",
+        "-1904172423"
       ]
     },
     {
       "hc_lt_id_alb": "-1269652920",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1500961412",
       "hc_lt_id_sptag": "",
       "id_img": "OnePiece_589781_crop2608_-1626694237",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid9fUta1ARBFfTiqc8zGMyjEfggCUjmL77UrcIc2xsYSpVy4706IhQgSYlgwrgVRHU=",
@@ -43,7 +47,28 @@
       "lt_id_alb": [
         "505986750",
         "2112395380"
+      ],
+      "list_id_nortag": [
+        "1383698700",
+        "-1904172423"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "2192268",
+      "name_nortag": "Flag",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "-1904172423",
+      "name_nortag": "Pirate",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "1383698700",
+      "name_nortag": "Roronoa Zoro",
+      "total_img": 75
     }
   ]
 }

@@ -4,20 +4,20 @@
   "name_nortag": "Sisters Toaru Majutsu no Index",
   "total_img": 10,
   "total_page": 0,
-  "hc_lt_alb": "-1752131733",
-  "hc_lt_data_img": "-188171083",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "742264791",
+  "hc_lt_alb": "870217349",
+  "hc_lt_data_img": "1182505054",
+  "hc_lt_nortag": "1026668442",
+  "hc_lt_sptag": "1479936533",
   "lt_alb": [
-    {
-      "id_alb": "-1877681132",
-      "name_alb": "To Aru Kagaku No Railgun",
-      "total_img": 149
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-1877681132",
+      "name_alb": "To Aru Kagaku No Railgun",
+      "total_img": 149
     },
     {
       "id_alb": "-1479929485",
@@ -27,8 +27,148 @@
   ],
   "lt_data_img": [
     {
+      "hc_lt_id_alb": "-1997800830",
+      "hc_lt_id_nortag": "946617294",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToaruMajutsunoIndex_813351_crop2608_1722336995",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieveva16YepQj2e+urZwMq1XSWem34ALcsQTWAbLWCNG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieveva16YepQj2e+urZwMq1lzmYOiuxmUaVUsGOfFleIZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1479929485"
+      ],
+      "list_id_nortag": [
+        "-1856024252",
+        "623127868",
+        "189972996",
+        "-1176403324",
+        "1820541189",
+        "-774594597",
+        "970102444"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1997800830",
+      "hc_lt_id_nortag": "946617294",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToaruMajutsunoIndex_813351_crop2608_-1523774090",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid//ISvXYmmzcr4gUvTQGehuJUF0/qANBHsGge+qgb7iJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid//ISvXYmmzcr4gUvTQGehU7YanRxNIR3yiG4wwCVKQpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1479929485"
+      ],
+      "list_id_nortag": [
+        "-1856024252",
+        "623127868",
+        "189972996",
+        "-1176403324",
+        "1820541189",
+        "-774594597",
+        "970102444"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1997800830",
+      "hc_lt_id_nortag": "208688881",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToaruMajutsunoIndex_813486_crop2608_491868614",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifezlzje/wOninkm4whvp5VOBW9dWCFA8BOsBNc7BxoY5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifezlzje/wOninkm4whvp5VBSDUU99Fl0Vyz8lqBm7bP5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1479929485"
+      ],
+      "list_id_nortag": [
+        "-1856024252",
+        "493128777",
+        "-1120962151",
+        "623127868",
+        "189972996",
+        "-1176403324",
+        "-303857400",
+        "1820541189",
+        "-774594597",
+        "79944435",
+        "970102444"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1997800830",
+      "hc_lt_id_nortag": "946617294",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToaruMajutsunoIndex_813351_crop2608_1788311823",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgZGUJF7Qq1N7JN6bEN9q/4C6wgAeupxaOMxk9nhsNvJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgZGUJF7Qq1N7JN6bEN9q/AgDvf9jnxgTE5v1i7h3+CJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1479929485"
+      ],
+      "list_id_nortag": [
+        "-1856024252",
+        "623127868",
+        "189972996",
+        "-1176403324",
+        "1820541189",
+        "-774594597",
+        "970102444"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1997800830",
+      "hc_lt_id_nortag": "208688881",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToaruMajutsunoIndex_813486_crop2608_1295054105",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKHrp7KWByZrVVvpSVjUP58f2B+grbyF5pSpBlSE8Qr5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKHrp7KWByZrVVvpSVjUP5KNsAp+mcCYCO9k+PRI99epVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1479929485"
+      ],
+      "list_id_nortag": [
+        "-1856024252",
+        "493128777",
+        "-1120962151",
+        "623127868",
+        "189972996",
+        "-1176403324",
+        "-303857400",
+        "1820541189",
+        "-774594597",
+        "79944435",
+        "970102444"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1997800830",
+      "hc_lt_id_nortag": "976097250",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToaruMajutsunoIndex_813354_crop2608_1950025126",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9IQnq4+IpcYbW5Vv2w8ls4fzArz4y7XzA1/NTQZ+ooJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9IQnq4+IpcYbW5Vv2w8ls2BMQC8GEfy7UTEsizvKKP5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1479929485"
+      ],
+      "list_id_nortag": [
+        "-1856024252",
+        "189972996",
+        "1820541189"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1997800830",
+      "hc_lt_id_nortag": "976097250",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToaruMajutsunoIndex_813354_crop2608_271635948",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAxV6OBte63ypqqt5Os1q0GmlMOvlCP+dUjx7wN9/9GpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAxV6OBte63ypqqt5Os1q01mZGe4tlElmkW+nO7G/x9pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1479929485"
+      ],
+      "list_id_nortag": [
+        "-1856024252",
+        "189972996",
+        "1820541189"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-549173501",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1174479187",
       "hc_lt_id_sptag": "1871562535",
       "id_img": "ToAruKagakuNoRailgun_813213_crop2608_1253860180",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGgp5rdzqNdex+Epe0tZfnuovo0QbKXM7w/czGEvIz35Vy4706IhQgSYlgwrgVRHU=",
@@ -36,6 +176,9 @@
       "lt_id_alb": [
         "-1877681132",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "189972996"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -46,8 +189,32 @@
       ]
     },
     {
+      "hc_lt_id_alb": "-1997800830",
+      "hc_lt_id_nortag": "208688881",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToaruMajutsunoIndex_813486_crop2608_-1022327348",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVm28MYWEgJY0TkvmJPO96uiLV3T2Ashx8qSZmpdnWs5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVm28MYWEgJY0TkvmJPO96VCTjSlGqvsQEVXjjBkt+xpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1479929485"
+      ],
+      "list_id_nortag": [
+        "-1856024252",
+        "493128777",
+        "-1120962151",
+        "623127868",
+        "189972996",
+        "-1176403324",
+        "-303857400",
+        "1820541189",
+        "-774594597",
+        "79944435",
+        "970102444"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-549173501",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1174479187",
       "hc_lt_id_sptag": "1718845554",
       "id_img": "ToAruKagakuNoRailgun_813450_crop2608_-3993092",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1dzElO+bqnJVxUgr3DcLei8vZ3cCO35ZPA81xva5175Vy4706IhQgSYlgwrgVRHU=",
@@ -55,6 +222,9 @@
       "lt_id_alb": [
         "-1877681132",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "189972996"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -64,114 +234,83 @@
         "1600730941",
         "-143528947"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "493128777",
+      "name_nortag": "Accelerator To Aru Kagaku No Railgun",
+      "total_img": 18
     },
     {
-      "hc_lt_id_alb": "-1997800830",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ToaruMajutsunoIndex_813351_crop2608_-1523774090",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid//ISvXYmmzcr4gUvTQGehuJUF0/qANBHsGge+qgb7iJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid//ISvXYmmzcr4gUvTQGehU7YanRxNIR3yiG4wwCVKQpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1479929485"
-      ]
+      "id_nortag": "-1176403324",
+      "name_nortag": "Index Librorum Prohibitorum",
+      "total_img": 33
     },
     {
-      "hc_lt_id_alb": "-1997800830",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ToaruMajutsunoIndex_813351_crop2608_1722336995",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieveva16YepQj2e+urZwMq1XSWem34ALcsQTWAbLWCNG5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieveva16YepQj2e+urZwMq1lzmYOiuxmUaVUsGOfFleIZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1479929485"
-      ]
+      "id_nortag": "970102444",
+      "name_nortag": "Kamijou Touma",
+      "total_img": 35
     },
     {
-      "hc_lt_id_alb": "-1997800830",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ToaruMajutsunoIndex_813351_crop2608_1788311823",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgZGUJF7Qq1N7JN6bEN9q/4C6wgAeupxaOMxk9nhsNvJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgZGUJF7Qq1N7JN6bEN9q/AgDvf9jnxgTE5v1i7h3+CJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1479929485"
-      ]
+      "id_nortag": "623127868",
+      "name_nortag": "Kazari Uiharu",
+      "total_img": 61
     },
     {
-      "hc_lt_id_alb": "-1997800830",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ToaruMajutsunoIndex_813354_crop2608_1950025126",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9IQnq4+IpcYbW5Vv2w8ls4fzArz4y7XzA1/NTQZ+ooJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9IQnq4+IpcYbW5Vv2w8ls2BMQC8GEfy7UTEsizvKKP5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1479929485"
-      ]
+      "id_nortag": "-774594597",
+      "name_nortag": "Kuroko Shirai",
+      "total_img": 82
     },
     {
-      "hc_lt_id_alb": "-1997800830",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ToaruMajutsunoIndex_813354_crop2608_271635948",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAxV6OBte63ypqqt5Os1q0GmlMOvlCP+dUjx7wN9/9GpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAxV6OBte63ypqqt5Os1q01mZGe4tlElmkW+nO7G/x9pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1479929485"
-      ]
+      "id_nortag": "-1856024252",
+      "name_nortag": "Last Order",
+      "total_img": 24
     },
     {
-      "hc_lt_id_alb": "-1997800830",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ToaruMajutsunoIndex_813486_crop2608_-1022327348",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVm28MYWEgJY0TkvmJPO96uiLV3T2Ashx8qSZmpdnWs5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVm28MYWEgJY0TkvmJPO96VCTjSlGqvsQEVXjjBkt+xpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1479929485"
-      ]
+      "id_nortag": "1820541189",
+      "name_nortag": "Mikoto Misaka",
+      "total_img": 123
     },
     {
-      "hc_lt_id_alb": "-1997800830",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ToaruMajutsunoIndex_813486_crop2608_1295054105",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKHrp7KWByZrVVvpSVjUP58f2B+grbyF5pSpBlSE8Qr5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKHrp7KWByZrVVvpSVjUP5KNsAp+mcCYCO9k+PRI99epVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1479929485"
-      ]
+      "id_nortag": "-1120962151",
+      "name_nortag": "Ruiko Saten",
+      "total_img": 61
     },
     {
-      "hc_lt_id_alb": "-1997800830",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ToaruMajutsunoIndex_813486_crop2608_491868614",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifezlzje/wOninkm4whvp5VOBW9dWCFA8BOsBNc7BxoY5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifezlzje/wOninkm4whvp5VBSDUU99Fl0Vyz8lqBm7bP5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1479929485"
-      ]
+      "id_nortag": "-303857400",
+      "name_nortag": "School Uniform",
+      "total_img": 467
+    },
+    {
+      "id_nortag": "189972996",
+      "name_nortag": "Sisters Toaru Majutsu no Index",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "79944435",
+      "name_nortag": "Skirt",
+      "total_img": 368
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
       "id_sptag": "-1782893951",
       "key_sptag": "isGirlEyesBrownAnime",
       "name_sptag": "Girls Eyes Brown",
       "total": 9376
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
     },
     {
       "id_sptag": "-1415763167",
@@ -186,16 +325,16 @@
       "total": 13760
     },
     {
-      "id_sptag": "1211227273",
-      "key_sptag": "isGirlEyesYellowAnime",
-      "name_sptag": "Girls Eyes Yellow",
-      "total": 6605
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
     }
   ]
 }

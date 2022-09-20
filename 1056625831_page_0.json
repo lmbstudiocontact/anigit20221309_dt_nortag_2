@@ -5,8 +5,8 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "24110614",
-  "hc_lt_data_img": "-676280665",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1413531559",
+  "hc_lt_nortag": "-687059259",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-61574531",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1743685092",
       "hc_lt_id_sptag": "",
       "id_img": "Wakfu_547248_crop2608_2123943583",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifj7bmM4nlnrEYQbK1SppRBlCZbqIygN6sZOZE1o6cIspVy4706IhQgSYlgwrgVRHU=",
@@ -31,11 +31,14 @@
       "lt_id_alb": [
         "66988",
         "83342160"
+      ],
+      "list_id_nortag": [
+        "1056625831"
       ]
     },
     {
       "hc_lt_id_alb": "-61574531",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1743685092",
       "hc_lt_id_sptag": "",
       "id_img": "Wakfu_941183_crop2608_-167157353",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif49kpwNuh+r/blFiw8Are+SWiEsktz9D9v+FQoALFyL5Vy4706IhQgSYlgwrgVRHU=",
@@ -43,7 +46,17 @@
       "lt_id_alb": [
         "66988",
         "83342160"
+      ],
+      "list_id_nortag": [
+        "1056625831"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1056625831",
+      "name_nortag": "Nox Wakfu",
+      "total_img": 2
     }
   ]
 }

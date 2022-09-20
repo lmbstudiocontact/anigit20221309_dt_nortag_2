@@ -5,8 +5,8 @@
   "total_img": 11,
   "total_page": 0,
   "hc_lt_alb": "-42454876",
-  "hc_lt_data_img": "1967307737",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "360962248",
+  "hc_lt_nortag": "485024766",
   "hc_lt_sptag": "-1164328411",
   "lt_alb": [
     {
@@ -28,7 +28,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-567400",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1982942755",
       "hc_lt_id_sptag": "",
       "id_img": "FateApocrypha_858800_crop2608_968599163",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietCXVaKfKvAR6zQAuA9y3YCXugHAX79TG3C0IZXmwYZ5Vy4706IhQgSYlgwrgVRHU=",
@@ -36,11 +36,29 @@
       "lt_id_alb": [
         "66988",
         "-1310424525"
+      ],
+      "list_id_nortag": [
+        "225186734"
       ]
     },
     {
       "hc_lt_id_alb": "-567400",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1982942755",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateApocrypha_858829_crop2608_96593186",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzkw93h/iLf1EvB4hMqsRSM8OXn+DrGqlxVTxgR58EDpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzkw93h/iLf1EvB4hMqsRSDbEbiw2BKuPCajz9hFBQ/pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-1310424525"
+      ],
+      "list_id_nortag": [
+        "225186734"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-567400",
+      "hc_lt_id_nortag": "-1982942755",
       "hc_lt_id_sptag": "",
       "id_img": "FateApocrypha_858907_crop2608_969529411",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif5uSLxnac+hLExjclFUdWfJXUX0aYWt/d3zTfwzfiDRpVy4706IhQgSYlgwrgVRHU=",
@@ -48,11 +66,29 @@
       "lt_id_alb": [
         "66988",
         "-1310424525"
+      ],
+      "list_id_nortag": [
+        "225186734"
       ]
     },
     {
       "hc_lt_id_alb": "-567400",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1982942755",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateApocrypha_858793_crop2608_-990864716",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGrgslhigdvGj5LPZJPMO/GgLAPtJb1EK0376e4/kBWpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGrgslhigdvGj5LPZJPMO/Q/b8ItFpkCzxBUYgu/BlCZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-1310424525"
+      ],
+      "list_id_nortag": [
+        "225186734"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-567400",
+      "hc_lt_id_nortag": "-1982942755",
       "hc_lt_id_sptag": "",
       "id_img": "FateApocrypha_858913_crop2608_969555358",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlueq+/wlw3CBWhpx/KZAudEcjN+Hz6INSg3ulpT8qdZVy4706IhQgSYlgwrgVRHU=",
@@ -60,23 +96,71 @@
       "lt_id_alb": [
         "66988",
         "-1310424525"
+      ],
+      "list_id_nortag": [
+        "225186734"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1646047883",
+      "hc_lt_id_nortag": "-1762419107",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateGrandOrder_870307_crop2608_666015654",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUTDJzOIBZfSh/v4bzM7LUQgTSaVpzyEWmgBrL6gqBb5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUTDJzOIBZfSh/v4bzM7LU2telEjKqV99hDMQyvb+Yp5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "224902894"
+      ],
+      "list_id_nortag": [
+        "-1769491654",
+        "142827443",
+        "-272046484",
+        "-981129020",
+        "-1362567063",
+        "225186734",
+        "-38944038",
+        "-419837635"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1646047883",
+      "hc_lt_id_nortag": "-1762419107",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateGrandOrder_870307_crop2608_1290894124",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIZiSZRmXEEUAduaF5OUCuXCFCcaptgEwXKc0rrDDAp5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIZiSZRmXEEUAduaF5OUCu+fUJJd+K1wIlJaUn139XkJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "224902894"
+      ],
+      "list_id_nortag": [
+        "-1769491654",
+        "142827443",
+        "-272046484",
+        "-981129020",
+        "-1362567063",
+        "225186734",
+        "-38944038",
+        "-419837635"
       ]
     },
     {
       "hc_lt_id_alb": "-567400",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1982942755",
       "hc_lt_id_sptag": "",
-      "id_img": "FateApocrypha_858915_crop2608_969557280",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6InPPxSiUb5SS4QOtFBSAMkYba3+Iz8a55vbdckKx95Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6InPPxSiUb5SS4QOtFBSAON58fL64C46VDQ603c+wy5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "FateApocrypha_868027_crop2608_1848780985",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJ0qWmdw+4XvSTZG+2EZedxB0s4CwH5C0PfDD20u1/JZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJ0qWmdw+4XvSTZG+2EZed3+zOJ2wcOJcgA6w+909Br5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "66988",
         "-1310424525"
+      ],
+      "list_id_nortag": [
+        "225186734"
       ]
     },
     {
       "hc_lt_id_alb": "-567400",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1982942755",
       "hc_lt_id_sptag": "1614125515",
       "id_img": "FateApocrypha_858940_crop2608_969641848",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicV1iR1mB2EhJ3EMCTGQ7IKRZqI9aaQ6GjWm4sTNWSnfZVy4706IhQgSYlgwrgVRHU=",
@@ -85,6 +169,9 @@
         "66988",
         "-1310424525"
       ],
+      "list_id_nortag": [
+        "225186734"
+      ],
       "lt_id_sptag": [
         "-1880367671",
         "-1436512555"
@@ -92,7 +179,7 @@
     },
     {
       "hc_lt_id_alb": "-567400",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1982942755",
       "hc_lt_id_sptag": "",
       "id_img": "FateApocrypha_868024_crop2608_1848778102",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXEqqlN19CvrNw+eV46V2CPbGyk19L6JzxNK+YfR8iXZVy4706IhQgSYlgwrgVRHU=",
@@ -100,65 +187,67 @@
       "lt_id_alb": [
         "66988",
         "-1310424525"
+      ],
+      "list_id_nortag": [
+        "225186734"
       ]
     },
     {
       "hc_lt_id_alb": "-567400",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1982942755",
       "hc_lt_id_sptag": "",
-      "id_img": "FateApocrypha_868027_crop2608_1848780985",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJ0qWmdw+4XvSTZG+2EZedxB0s4CwH5C0PfDD20u1/JZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJ0qWmdw+4XvSTZG+2EZed3+zOJ2wcOJcgA6w+909Br5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "FateApocrypha_858915_crop2608_969557280",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6InPPxSiUb5SS4QOtFBSAMkYba3+Iz8a55vbdckKx95Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6InPPxSiUb5SS4QOtFBSAON58fL64C46VDQ603c+wy5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "66988",
         "-1310424525"
+      ],
+      "list_id_nortag": [
+        "225186734"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1769491654",
+      "name_nortag": "Archer FateStay Night",
+      "total_img": 21
     },
     {
-      "hc_lt_id_alb": "-567400",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "FateApocrypha_858793_crop2608_-990864716",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGrgslhigdvGj5LPZJPMO/GgLAPtJb1EK0376e4/kBWpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGrgslhigdvGj5LPZJPMO/Q/b8ItFpkCzxBUYgu/BlCZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "-1310424525"
-      ]
+      "id_nortag": "142827443",
+      "name_nortag": "Fujimaru Ritsuka Male",
+      "total_img": 10
     },
     {
-      "hc_lt_id_alb": "-567400",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "FateApocrypha_858829_crop2608_96593186",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzkw93h/iLf1EvB4hMqsRSM8OXn+DrGqlxVTxgR58EDpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzkw93h/iLf1EvB4hMqsRSDbEbiw2BKuPCajz9hFBQ/pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "-1310424525"
-      ]
+      "id_nortag": "-38944038",
+      "name_nortag": "Fujimaru Ritsuka",
+      "total_img": 34
     },
     {
-      "hc_lt_id_alb": "1646047883",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "FateGrandOrder_870307_crop2608_1290894124",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIZiSZRmXEEUAduaF5OUCuXCFCcaptgEwXKc0rrDDAp5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIZiSZRmXEEUAduaF5OUCu+fUJJd+K1wIlJaUn139XkJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "224902894"
-      ]
+      "id_nortag": "-419837635",
+      "name_nortag": "Nitocris FateGrand Order",
+      "total_img": 5
     },
     {
-      "hc_lt_id_alb": "1646047883",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "FateGrandOrder_870307_crop2608_666015654",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUTDJzOIBZfSh/v4bzM7LUQgTSaVpzyEWmgBrL6gqBb5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUTDJzOIBZfSh/v4bzM7LU2telEjKqV99hDMQyvb+Yp5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "224902894"
-      ]
+      "id_nortag": "-1362567063",
+      "name_nortag": "Ruler FateApocrypha",
+      "total_img": 54
+    },
+    {
+      "id_nortag": "-272046484",
+      "name_nortag": "Saber Fate Series",
+      "total_img": 218
+    },
+    {
+      "id_nortag": "-981129020",
+      "name_nortag": "Shielder FateGrand Order",
+      "total_img": 53
+    },
+    {
+      "id_nortag": "225186734",
+      "name_nortag": "Shirou Kotomine",
+      "total_img": 11
     }
   ],
   "lt_sptag": [

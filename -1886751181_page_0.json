@@ -4,48 +4,41 @@
   "name_nortag": "Susanoo Naruto",
   "total_img": 3,
   "total_page": 0,
-  "hc_lt_alb": "-851406988",
-  "hc_lt_data_img": "-235232431",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "712844408",
+  "hc_lt_alb": "-1200134418",
+  "hc_lt_data_img": "-1036192316",
+  "hc_lt_nortag": "1281573549",
+  "hc_lt_sptag": "-1030132118",
   "lt_alb": [
-    {
-      "id_alb": "-1968799663",
-      "name_alb": "Naruto",
-      "total_img": 478
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "-1968799663",
+      "name_alb": "Naruto",
+      "total_img": 478
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "482662218",
       "hc_lt_id_sptag": "",
       "id_img": "Naruto_287546_crop2608_1286383014",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefcifrRKuLhi5GQOdy4sYI5Zuhq0a7V+uWlceOmStA0pVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefcifrRKuLhi5GQOdy4sYIK7LzHWh5blyQeS2+auplWJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1968799663"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Naruto_605598_crop2608_273503929",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1B9IJ0sHc59KYWb52rHf1Sf9Ab9jEpek/ghNhQ6i2JpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1B9IJ0sHc59KYWb52rHf1DczIBoFRfHoFeGMBP6i+KZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1968799663"
+      ],
+      "list_id_nortag": [
+        "-285202530",
+        "-1886751181"
       ]
     },
     {
       "hc_lt_id_alb": "766321787",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "659070141",
       "hc_lt_id_sptag": "862791854",
       "id_img": "Naruto_748035_crop2608_-1845521801",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSseRCzC26aRLa/3eeD8QDVsCl3FX9saNSqhnAROWzT5Vy4706IhQgSYlgwrgVRHU=",
@@ -54,24 +47,71 @@
         "66988",
         "-1968799663"
       ],
+      "list_id_nortag": [
+        "1837763930",
+        "-1886751181"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-831277070",
+      "hc_lt_id_nortag": "88721535",
+      "hc_lt_id_sptag": "",
+      "id_img": "Naruto_605598_crop2608_273503929",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1B9IJ0sHc59KYWb52rHf1Sf9Ab9jEpek/ghNhQ6i2JpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1B9IJ0sHc59KYWb52rHf1DczIBoFRfHoFeGMBP6i+KZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1968799663"
+      ],
+      "list_id_nortag": [
+        "-417194172",
+        "-1886751181",
+        "-877629053"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1837763930",
+      "name_nortag": "Itachi Uchiha",
+      "total_img": 58
+    },
+    {
+      "id_nortag": "-417194172",
+      "name_nortag": "Kurama Naruto",
+      "total_img": 22
+    },
+    {
+      "id_nortag": "-877629053",
+      "name_nortag": "Kyubi Naruto",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "-285202530",
+      "name_nortag": "Sasuke Uchiha",
+      "total_img": 154
+    },
+    {
+      "id_nortag": "-1886751181",
+      "name_nortag": "Susanoo Naruto",
+      "total_img": 3
     }
   ],
   "lt_sptag": [
-    {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
     {
       "id_sptag": "1736318786",
       "key_sptag": "isBoySad",
       "name_sptag": "Boy Sad",
       "total": 1551
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

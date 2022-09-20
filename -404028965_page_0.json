@@ -4,105 +4,36 @@
   "name_nortag": "Simon Tengen Toppa Gurren Lagann",
   "total_img": 8,
   "total_page": 0,
-  "hc_lt_alb": "-12506742",
-  "hc_lt_data_img": "1464603568",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "-205601056",
+  "hc_lt_data_img": "960118442",
+  "hc_lt_nortag": "1107846977",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "-892807948",
-      "name_alb": "Crossover",
-      "total_img": 505
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
     },
     {
-      "id_alb": "1437581393",
-      "name_alb": "Tengen Toppa Gurren Lagann",
-      "total_img": 25
-    },
-    {
       "id_alb": "2024260576",
       "name_alb": "Couple",
       "total_img": 2059
+    },
+    {
+      "id_alb": "-892807948",
+      "name_alb": "Crossover",
+      "total_img": 505
+    },
+    {
+      "id_alb": "1437581393",
+      "name_alb": "Tengen Toppa Gurren Lagann",
+      "total_img": 25
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_707693_crop2608_-2128197853",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxnmI11qICYGSBAL+yccdPWZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxcVWMPA6cH16gu/QGDFyVyJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_707693_crop2608_289549538",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSdubL+kRFoazVGyWMEa5axVnZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSduNy1uFvmn/p1psBa1qyVsu5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_707693_crop2608_569621327",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqIdvVDelpzhdNN0qaUcJ49+6XPeiWKyuxn3kw3y2OzZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqIdvVDelpzhdNN0qaUcJ4eKdFo2gt3r8pggs5wYn4kJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1407298290",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "TengenToppaGurrenLagann_133292_crop2608_806447026",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5F8xCcr0jkRalQm0AspplIT8kG/Zo8alH48Z/TvzdI5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5F8xCcr0jkRalQm0AspplX727zMgpyvXMzwkNvmdHdJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "1437581393"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1407298290",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "TengenToppaGurrenLagann_54658_crop2608_1743805798",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg/omJWyy7zlh+8nQKGASZzjuPrqktH2wQ/jg2yw7o3pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg/omJWyy7zlh+8nQKGASZNZmwTUS4qjKnXSsWLAsHs5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "1437581393"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1407298290",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "TengenToppaGurrenLagann_60031_crop2608_120872736",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+VCJ4DLu+cv6UFl1nIF0mQK/+dnp5vvhYDDi4MIf6tZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+VCJ4DLu+cv6UFl1nIF0m8nJArweXkDMklrtbkCMld5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "1437581393"
-      ]
-    },
-    {
       "hc_lt_id_alb": "872792323",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1361907997",
       "hc_lt_id_sptag": "",
       "id_img": "TengenToppaGurrenLagann_851220_crop2608_-1191485964",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCi8eIB+LasX7FNpStZN/FkmftzD6QCzJ3bGKHZ+aObZVy4706IhQgSYlgwrgVRHU=",
@@ -110,11 +41,106 @@
       "lt_id_alb": [
         "1437581393",
         "2024260576"
+      ],
+      "list_id_nortag": [
+        "-404028965",
+        "1015030999"
       ]
     },
     {
       "hc_lt_id_alb": "-1407298290",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "607007506",
+      "hc_lt_id_sptag": "",
+      "id_img": "TengenToppaGurrenLagann_60031_crop2608_120872736",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+VCJ4DLu+cv6UFl1nIF0mQK/+dnp5vvhYDDi4MIf6tZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+VCJ4DLu+cv6UFl1nIF0m8nJArweXkDMklrtbkCMld5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "1437581393"
+      ],
+      "list_id_nortag": [
+        "64369569",
+        "880227734",
+        "1992679946",
+        "-404028965",
+        "1015030999",
+        "-529856340",
+        "1864385842",
+        "1768228815"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "704922953",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_707693_crop2608_289549538",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSdubL+kRFoazVGyWMEa5axVnZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSduNy1uFvmn/p1psBa1qyVsu5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "1771191171",
+        "1433608519",
+        "-195763714",
+        "-404028965",
+        "428715970",
+        "633717388",
+        "-2127174068",
+        "1810342875",
+        "1015030999",
+        "1593978968"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "704922953",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_707693_crop2608_-2128197853",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxnmI11qICYGSBAL+yccdPWZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxcVWMPA6cH16gu/QGDFyVyJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "1771191171",
+        "1433608519",
+        "-195763714",
+        "-404028965",
+        "428715970",
+        "633717388",
+        "-2127174068",
+        "1810342875",
+        "1015030999",
+        "1593978968"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "704922953",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_707693_crop2608_569621327",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqIdvVDelpzhdNN0qaUcJ49+6XPeiWKyuxn3kw3y2OzZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqIdvVDelpzhdNN0qaUcJ4eKdFo2gt3r8pggs5wYn4kJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "1771191171",
+        "1433608519",
+        "-195763714",
+        "-404028965",
+        "428715970",
+        "633717388",
+        "-2127174068",
+        "1810342875",
+        "1015030999",
+        "1593978968"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1407298290",
+      "hc_lt_id_nortag": "-1668323252",
       "hc_lt_id_sptag": "",
       "id_img": "TengenToppaGurrenLagann_851236_crop2608_-1246643879",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqPycHqY/lk+QBRV5p5XAsHBGPYRvw63PxNpDTsJmk9pVy4706IhQgSYlgwrgVRHU=",
@@ -122,7 +148,172 @@
       "lt_id_alb": [
         "66988",
         "1437581393"
+      ],
+      "list_id_nortag": [
+        "-404028965"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-1407298290",
+      "hc_lt_id_nortag": "275301470",
+      "hc_lt_id_sptag": "",
+      "id_img": "TengenToppaGurrenLagann_133292_crop2608_806447026",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5F8xCcr0jkRalQm0AspplIT8kG/Zo8alH48Z/TvzdI5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5F8xCcr0jkRalQm0AspplX727zMgpyvXMzwkNvmdHdJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "1437581393"
+      ],
+      "list_id_nortag": [
+        "880227734",
+        "83201",
+        "-404028965",
+        "-2083773202",
+        "-529856340",
+        "1327391370",
+        "65203733",
+        "74218468"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1407298290",
+      "hc_lt_id_nortag": "-300757987",
+      "hc_lt_id_sptag": "",
+      "id_img": "TengenToppaGurrenLagann_54658_crop2608_1743805798",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg/omJWyy7zlh+8nQKGASZzjuPrqktH2wQ/jg2yw7o3pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg/omJWyy7zlh+8nQKGASZNZmwTUS4qjKnXSsWLAsHs5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "1437581393"
+      ],
+      "list_id_nortag": [
+        "-1901896264",
+        "-404028965",
+        "67960595",
+        "2092787"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1327391370",
+      "name_nortag": "Bandage",
+      "total_img": 17
+    },
+    {
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
+    },
+    {
+      "id_nortag": "1768228815",
+      "name_nortag": "Bodysuit",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "64369569",
+      "name_nortag": "Boots",
+      "total_img": 51
+    },
+    {
+      "id_nortag": "2092787",
+      "name_nortag": "Cape",
+      "total_img": 25
+    },
+    {
+      "id_nortag": "65203733",
+      "name_nortag": "Cloud",
+      "total_img": 163
+    },
+    {
+      "id_nortag": "67960595",
+      "name_nortag": "Flame",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "1864385842",
+      "name_nortag": "Goggles",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "-2083773202",
+      "name_nortag": "Jacket",
+      "total_img": 31
+    },
+    {
+      "id_nortag": "633717388",
+      "name_nortag": "Kamina Tengen Toppa Gurren Lagann",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "-195763714",
+      "name_nortag": "Mako Mankanshoku",
+      "total_img": 17
+    },
+    {
+      "id_nortag": "74218468",
+      "name_nortag": "Mecha",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "880227734",
+      "name_nortag": "Necklace",
+      "total_img": 26
+    },
+    {
+      "id_nortag": "1015030999",
+      "name_nortag": "Nia Teppelin",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "1771191171",
+      "name_nortag": "Nonon Jakuzure",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "1593978968",
+      "name_nortag": "Panty Anarchy",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-1901896264",
+      "name_nortag": "Planet",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "-2127174068",
+      "name_nortag": "Ryuko Matoi",
+      "total_img": 49
+    },
+    {
+      "id_nortag": "1810342875",
+      "name_nortag": "Satsuki Kiryuin",
+      "total_img": 28
+    },
+    {
+      "id_nortag": "1433608519",
+      "name_nortag": "Senketsu Kill la Kill",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-404028965",
+      "name_nortag": "Simon Tengen Toppa Gurren Lagann",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "-529856340",
+      "name_nortag": "Sitting",
+      "total_img": 61
+    },
+    {
+      "id_nortag": "83201",
+      "name_nortag": "Sky",
+      "total_img": 168
+    },
+    {
+      "id_nortag": "428715970",
+      "name_nortag": "Stocking Anarchy",
+      "total_img": 8
     }
   ]
 }

@@ -4,98 +4,26 @@
   "name_nortag": "Super Saiyan God",
   "total_img": 7,
   "total_page": 0,
-  "hc_lt_alb": "2090010505",
-  "hc_lt_data_img": "1400040072",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "-1382344647",
+  "hc_lt_data_img": "1572350674",
+  "hc_lt_nortag": "-207129695",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "-1433462233",
-      "name_alb": "Dragon Ball Super",
-      "total_img": 404
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "-1433462233",
+      "name_alb": "Dragon Ball Super",
+      "total_img": 404
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_593278_crop2608_-1958440532",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXnHD9H9Dx0IOHsAHMWUb+pZ4cNHihVq5C1xLPozmemJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXnHD9H9Dx0IOHsAHMWUb+4vMMdV7jppmEoWPiF5004ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_642268_crop2608_-932266168",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgXVNiJc9ogG/twr2xxwEnpsfHL1VJCc/w4DGgDbNfdZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgXVNiJc9ogG/twr2xxwEn8Ryo5U0mEe60pHvj03goKZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_652877_crop2608_30066861",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbMqW+H1CZiMKEWFifbnnIBNuCOXf4DKrq1W0bl5vvFZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbMqW+H1CZiMKEWFifbnnIzVQ/WF6fxCYP6gQ5L8nEGpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_813524_crop2608_-141712795",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp50fgPgWgUC2GVFTW1iGSiuMIKpEwzjBw3eqXkM76gJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp50fgPgWgUC2GVFTW1iGSxPR++9vqc/4VGhChpfp545Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_844639_crop2608_413366508",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBuqk+aJvioYWHB5yT/EUQGOmbaZKMW64RCtJaW/IF2ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBuqk+aJvioYWHB5yT/EUQnQV+Cin/fSOqLv32QCxHpZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_912051_crop2608_510630778",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzFFDT6g1w2E99a1uofn7yTS2t/Uc3pVRNXWASRARp/pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzFFDT6g1w2E99a1uofn7yFOBOSHvc6Xcc3iyY2u2bopVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1653426837",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBallSuper_926685_crop2608_-293602210",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkUCX1krwkTx/3j0LiUnsKsGSwtYvULXWHlYr7NSQ9LJVy4706IhQgSYlgwrgVRHU=",
@@ -103,7 +31,159 @@
       "lt_id_alb": [
         "-1433462233",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-287953508",
+        "2225266",
+        "-274244929",
+        "-779273876"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "871958375",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_642268_crop2608_-932266168",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgXVNiJc9ogG/twr2xxwEnpsfHL1VJCc/w4DGgDbNfdZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgXVNiJc9ogG/twr2xxwEn8Ryo5U0mEe60pHvj03goKZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-779273876"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "1018295540",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_912051_crop2608_510630778",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzFFDT6g1w2E99a1uofn7yTS2t/Uc3pVRNXWASRARp/pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzFFDT6g1w2E99a1uofn7yFOBOSHvc6Xcc3iyY2u2bopVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "-779273876"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "871958375",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_652877_crop2608_30066861",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbMqW+H1CZiMKEWFifbnnIBNuCOXf4DKrq1W0bl5vvFZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbMqW+H1CZiMKEWFifbnnIzVQ/WF6fxCYP6gQ5L8nEGpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-779273876"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "871958375",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_844639_crop2608_413366508",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBuqk+aJvioYWHB5yT/EUQGOmbaZKMW64RCtJaW/IF2ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBuqk+aJvioYWHB5yT/EUQnQV+Cin/fSOqLv32QCxHpZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-779273876"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "-218935458",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_593278_crop2608_-1958440532",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXnHD9H9Dx0IOHsAHMWUb+pZ4cNHihVq5C1xLPozmemJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXnHD9H9Dx0IOHsAHMWUb+4vMMdV7jppmEoWPiF5004ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "-1604554070",
+        "2225266",
+        "-726228550",
+        "-779273876",
+        "-1796966291",
+        "2539444"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "132752433",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_813524_crop2608_-141712795",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp50fgPgWgUC2GVFTW1iGSiuMIKpEwzjBw3eqXkM76gJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp50fgPgWgUC2GVFTW1iGSxPR++9vqc/4VGhChpfp545Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "-779273876",
+        "-1140366362"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-726228550",
+      "name_nortag": "Beerus Dragon Ball",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "2225266",
+      "name_nortag": "Goku",
+      "total_img": 321
+    },
+    {
+      "id_nortag": "-274244929",
+      "name_nortag": "Hit Dragon Ball",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "-1604554070",
+      "name_nortag": "Lightning",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "2539444",
+      "name_nortag": "Rain",
+      "total_img": 56
+    },
+    {
+      "id_nortag": "-779273876",
+      "name_nortag": "Super Saiyan God",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "-1796966291",
+      "name_nortag": "Tattoo",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "-287953508",
+      "name_nortag": "Ultra Instinct Dragon Ball",
+      "total_img": 31
+    },
+    {
+      "id_nortag": "-1140366362",
+      "name_nortag": "Vegeta Dragon Ball",
+      "total_img": 124
     }
   ]
 }

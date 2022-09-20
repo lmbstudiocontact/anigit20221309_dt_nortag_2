@@ -4,66 +4,26 @@
   "name_nortag": "Shelter Anime",
   "total_img": 5,
   "total_page": 0,
-  "hc_lt_alb": "-145558187",
-  "hc_lt_data_img": "-1440299501",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "947386730",
+  "hc_lt_alb": "-326569363",
+  "hc_lt_data_img": "635792522",
+  "hc_lt_nortag": "-584893368",
+  "hc_lt_sptag": "91191062",
   "lt_alb": [
-    {
-      "id_alb": "-572566331",
-      "name_alb": "Shelter",
-      "total_img": 35
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-572566331",
+      "name_alb": "Shelter",
+      "total_img": 35
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "355248185",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1682524946",
-      "id_img": "Shelter_755802_crop2608_1854933117",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifceSAimHEdS2sJCfCnWWSnQdqBlsID0Xbe0MXevP9Bq5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifceSAimHEdS2sJCfCnWWSngFSlVTobm6taRwDxYQG1v5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-572566331",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "-1364967268",
-        "-326078627",
-        "1600730941",
-        "-143162340",
-        "1439812287",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "355248185",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1796721450",
-      "id_img": "Shelter_786822_crop2608_1857733533",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FnzUWF80bT0JvKxSFF7BRjQFw6H1EOdBo3VCpsWjGZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FnzUWF80bT0JvKxSFF7BYOJOmzpRNy/u2ezpT97bmJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-572566331",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "936615491",
-        "-1364967268",
-        "-326078627",
-        "1600730941",
-        "1911583362",
-        "-143528947"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "355248185",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "2002930586",
       "hc_lt_id_sptag": "-1382711042",
       "id_img": "Shelter_919191_crop2608_1908610050",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1paitWd09O+lHfykSKTPfp3+DfnvtyL2yvZD/kqusD5Vy4706IhQgSYlgwrgVRHU=",
@@ -71,6 +31,10 @@
       "lt_id_alb": [
         "-572566331",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "899584313",
+        "1926056604"
       ],
       "lt_id_sptag": [
         "82870",
@@ -85,7 +49,31 @@
     },
     {
       "hc_lt_id_alb": "355248185",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "2002930586",
+      "hc_lt_id_sptag": "1796721450",
+      "id_img": "Shelter_786822_crop2608_1857733533",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FnzUWF80bT0JvKxSFF7BRjQFw6H1EOdBo3VCpsWjGZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FnzUWF80bT0JvKxSFF7BYOJOmzpRNy/u2ezpT97bmJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-572566331",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "899584313",
+        "1926056604"
+      ],
+      "lt_id_sptag": [
+        "936615491",
+        "-1364967268",
+        "-326078627",
+        "1600730941",
+        "1911583362",
+        "-143528947"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "355248185",
+      "hc_lt_id_nortag": "2002930586",
       "hc_lt_id_sptag": "-735868222",
       "id_img": "Shelter_750481_crop2608_-1860549721",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidf3fhzRGsjwIQGiydeIYtRosXPYaeehn1inYnIrYJ8DZVy4706IhQgSYlgwrgVRHU=",
@@ -93,6 +81,10 @@
       "lt_id_alb": [
         "-572566331",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "899584313",
+        "1926056604"
       ],
       "lt_id_sptag": [
         "-1782893951",
@@ -103,7 +95,30 @@
     },
     {
       "hc_lt_id_alb": "355248185",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1258496645",
+      "hc_lt_id_sptag": "1682524946",
+      "id_img": "Shelter_755802_crop2608_1854933117",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifceSAimHEdS2sJCfCnWWSnQdqBlsID0Xbe0MXevP9Bq5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifceSAimHEdS2sJCfCnWWSngFSlVTobm6taRwDxYQG1v5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-572566331",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "899584313"
+      ],
+      "lt_id_sptag": [
+        "-1364967268",
+        "-326078627",
+        "1600730941",
+        "-143162340",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "355248185",
+      "hc_lt_id_nortag": "2002930586",
       "hc_lt_id_sptag": "1710198855",
       "id_img": "Shelter_820379_crop2608_-1403221269",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFyf4ZkHeJ3gxsshuNjJ/0wtkD8tHE2UdKvmzzT1oRmZVy4706IhQgSYlgwrgVRHU=",
@@ -111,6 +126,10 @@
       "lt_id_alb": [
         "-572566331",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "899584313",
+        "1926056604"
       ],
       "lt_id_sptag": [
         "-1782893951",
@@ -120,12 +139,54 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1926056604",
+      "name_nortag": "Rin Shelter",
+      "total_img": 34
+    },
+    {
+      "id_nortag": "899584313",
+      "name_nortag": "Shelter Anime",
+      "total_img": 5
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
+    },
+    {
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
+    },
     {
       "id_sptag": "-1364967268",
       "key_sptag": "isGirlEyesRedAnime",
       "name_sptag": "Girls Eyes Red",
       "total": 12697
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-143162340",
+      "key_sptag": "isGirlHairRedAnime",
+      "name_sptag": "Girls Hair Red",
+      "total": 3081
     },
     {
       "id_sptag": "-326078627",
@@ -134,16 +195,10 @@
       "total": 47407
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
-      "id_sptag": "-143162340",
-      "key_sptag": "isGirlHairRedAnime",
-      "name_sptag": "Girls Hair Red",
-      "total": 3081
+      "id_sptag": "126637389",
+      "key_sptag": "isGirlSadAnime",
+      "name_sptag": "Girls Sad",
+      "total": 10506
     },
     {
       "id_sptag": "1439812287",
@@ -158,34 +213,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "936615491",
-      "key_sptag": "isGirlEyesOrangeAnime",
-      "name_sptag": "Girls Eyes Orange",
-      "total": 3828
-    },
-    {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
-    {
       "id_sptag": "82870",
       "key_sptag": "isSad",
       "name_sptag": "Sad",
       "total": 12057
-    },
-    {
-      "id_sptag": "-1782893951",
-      "key_sptag": "isGirlEyesBrownAnime",
-      "name_sptag": "Girls Eyes Brown",
-      "total": 9376
-    },
-    {
-      "id_sptag": "126637389",
-      "key_sptag": "isGirlSadAnime",
-      "name_sptag": "Girls Sad",
-      "total": 10506
     }
   ]
 }

@@ -5,8 +5,8 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "337671089",
-  "hc_lt_data_img": "530172798",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1515029227",
+  "hc_lt_nortag": "-1363360727",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -22,31 +22,8 @@
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "-2072258376",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "BlueExorcist_727923_crop2608_2049916376",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieigsp+OjM1WEORLKOTMLHzlHl5G+/A0Wl9j+/shlqTD5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieigsp+OjM1WEORLKOTMLHzrsHLdzjwcb9HEbAPvvuDeJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1111654691"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-474659519",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "BlueExorcist_800977_crop2608_1510005966",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSO/yDG+TKR8eYQKgnOuCmrAWggdWG79CQY6TpPypcS5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSO/yDG+TKR8eYQKgnOuCmJuXIIptKwsptvw1o5hwuR5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "1111654691"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-474659519",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-2044313628",
       "hc_lt_id_sptag": "",
       "id_img": "BlueExorcist_800977_crop2608_902176827",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnXuRrmV8HDOhh3fqXG2dyr6pEOwFdgfnJlbZO02uKQpVy4706IhQgSYlgwrgVRHU=",
@@ -54,7 +31,110 @@
       "lt_id_alb": [
         "66988",
         "1111654691"
+      ],
+      "list_id_nortag": [
+        "-667587416",
+        "467988170",
+        "-1499425955",
+        "440970730",
+        "864851013",
+        "684540611",
+        "-1523263193",
+        "-1387495424",
+        "1948465656",
+        "-993096912"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-2072258376",
+      "hc_lt_id_nortag": "-1327613683",
+      "hc_lt_id_sptag": "",
+      "id_img": "BlueExorcist_727923_crop2608_2049916376",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieigsp+OjM1WEORLKOTMLHzlHl5G+/A0Wl9j+/shlqTD5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieigsp+OjM1WEORLKOTMLHzrsHLdzjwcb9HEbAPvvuDeJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1111654691"
+      ],
+      "list_id_nortag": [
+        "467988170",
+        "-1499425955"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-474659519",
+      "hc_lt_id_nortag": "-2044313628",
+      "hc_lt_id_sptag": "",
+      "id_img": "BlueExorcist_800977_crop2608_1510005966",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSO/yDG+TKR8eYQKgnOuCmrAWggdWG79CQY6TpPypcS5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSO/yDG+TKR8eYQKgnOuCmJuXIIptKwsptvw1o5hwuR5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "1111654691"
+      ],
+      "list_id_nortag": [
+        "-667587416",
+        "467988170",
+        "-1499425955",
+        "440970730",
+        "864851013",
+        "684540611",
+        "-1523263193",
+        "-1387495424",
+        "1948465656",
+        "-993096912"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "467988170",
+      "name_nortag": "Ao No Exorcist",
+      "total_img": 41
+    },
+    {
+      "id_nortag": "440970730",
+      "name_nortag": "Izumo Kamiki",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-993096912",
+      "name_nortag": "Konekomaru Miwa",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "684540611",
+      "name_nortag": "Kuro Ao No Exorcist",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "1948465656",
+      "name_nortag": "Renzo Shima",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "-1523263193",
+      "name_nortag": "Rin Okumura",
+      "total_img": 54
+    },
+    {
+      "id_nortag": "-1387495424",
+      "name_nortag": "Ryuji Suguro",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "-667587416",
+      "name_nortag": "Shiemi Moriyama",
+      "total_img": 17
+    },
+    {
+      "id_nortag": "-1499425955",
+      "name_nortag": "Shura Kirigakure",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "864851013",
+      "name_nortag": "Yukio Okumura",
+      "total_img": 30
     }
   ]
 }
